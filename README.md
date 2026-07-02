@@ -1,3 +1,0 @@
-# Heart Attack Risk Analysis & Patient Health Insights Using Python
-Heart disease is one of the leading causes of death worldwide, with factors such as stress, obesity, diabetes, smoking, high blood pressure, and sedentary lifestyles significantly increasing the risk of heart attacks. Healthcare organizations collect large volumes of patient data, but extracting meaningful insights from this data remains a challenge. The objective of this project is to analyze patient health records and identify the key factors that contribute to heart disease risk. Using Python-based data analysis techniques, the project aims to classify patients into low, medium, and high-risk categories, enabling better preventive care and data-driven healthcare decision-making.
-
