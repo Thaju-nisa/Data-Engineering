@@ -68,7 +68,7 @@ Build an automated ETL pipeline that:
 ## 📊 Pipeline Flow
 
 SearchAPI.io REST API
-⬇
+⬇<br>
 
 Copy Activity
 ⬇
