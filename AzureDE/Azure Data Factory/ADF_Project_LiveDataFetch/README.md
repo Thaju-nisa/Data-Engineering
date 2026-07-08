@@ -69,20 +69,27 @@ Build an automated ETL pipeline that:
 
 SearchAPI.io REST API
 ⬇
+
 Copy Activity
 ⬇
+
 Azure Blob Storage
 ⬇
+
 Mapping Data Flow
 ⬇
+
 Azure SQL Database
 ⬇
+
 GoogleTrends Table
 
 If Failure
 ⬇
+
 Stored Procedure
 ⬇
+
 ErrorLog Table
 
 ---
