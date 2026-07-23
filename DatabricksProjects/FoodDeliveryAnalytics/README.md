@@ -1,7 +1,7 @@
 # Food Delivery Analytics using Databricks
 
 ## Project Overview
-This project demonstrates an end-to-end Data Engineering pipeline built using Azure Databricks and Delta Lake. The pipeline follows the Medallion Architecture (Bronze → Silver → Gold) to ingest, clean, transform, and analyze food delivery data.
+This project demonstrates an end-to-end Data Engineering pipeline built using Databricks and Delta Lake. The pipeline follows the Medallion Architecture (Bronze → Silver → Gold) to ingest, clean, transform, and analyze food delivery data.
 
 The project also includes Databricks SQL dashboards for business reporting.
 
