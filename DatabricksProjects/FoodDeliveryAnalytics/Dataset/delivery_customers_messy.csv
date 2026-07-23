@@ -1,0 +1,1019 @@
+customer_id,customer_name,email,phone,gender,date_of_birth,city,state,signup_date,wallet_balance,membership_status
+CU0530,Nisha Reddy,nishareddy@mail.com,not_available,Male,04/10/1994,Ahmedabad,Gujarat,2022/05/28,1945.11,silver
+CU0333,Arjun Chawla,arjunchawla@mail.com,8835341895,Male,05-08-1984,Chennai,Tamil Nadu,2024-09-07,218.6,regular
+CU0316,Amit Das,amitdas@mail.com,9074582277,Male,22-12-1997,Hyderabad,Telangana,06-05-2021,1578.38,Regular
+CU0888,Sneha Pandey,snehapandey@mail.com,not_available,Male,1985/06/21,Jaipur,Rajasthan,2022-01-11,1080.42,Basic
+CU0404,Karan Patel,karanpatel@mail.com,not_available,Male,1991-04-25,Mumbai,Maharashtra,09/11/2022,1369.93,Silver
+CU0915,Isha Rao,isharao@mail.com,7352175015,Female,1997-08-15,Hyderabad,Telangana,01/18/2024,1346.62,silver
+CU0110,Manoj Patel,manojpatel@mail.com,9942013255,Female,03-08-1984,Pune,Maharashtra,08/07/2024,625.16,regular
+CU0565,Rohit Iyer,rohitiyer@mail.com,not_available,Female,12/21/1976,Bengaluru,Karnataka,2024-12-15,708.0,silver
+CU0645,Divya Kapoor,divyakapoor@mail.com,not_available,Male,08-05-1993,Kolkata,West Bengal,2022/10/23,202.61,regular
+CU0070,Neha Chawla,nehachawla@mail.com,8390587865,Male,1980-05-02,Hyderabad,Telangana,08/15/2021,218.11,Regular
+CU0272,Pallavi Kapoor,pallavikapoor@mail.com,7694904767,Male,09/13/1981,Kolkata,West Bengal,13-03-2021,1646.51,silver
+CU0991,Karan Kapoor,karankapoor@mail.com,9270215803,Male,17-09-2003,Chennai,Tamil Nadu,2023/11/06,1861.8,Regular
+CU0114,Karan Rao,karanrao@mail.com,not_available,Male,10-09-1986,Hyderabad,Telangana,22-10-2023,193.36,Silver
+CU0135,Arjun Menon,arjunmenon@mail.com,not_available,Male,1996/09/08,Chennai,Tamil Nadu,2022/11/22,93.77,Silver
+CU0085,Isha Malhotra,ishamalhotra@mail.com,7176191212,Female,2004-10-21,Kochi,Kerala,15-01-2022,1674.75,regular
+CU0604,Shreya Kapoor,shreyakapoor@mail.com,not_available,Male,1999-05-07,Delhi,Delhi,19-10-2021,1580.45,Gold
+CU0560,Pallavi Reddy,pallavireddy@mail.com,7927884600,Female,1983/03/24,Mumbai,Maharashtra,2023-07-21,166.51,Silver
+CU0751,Vivek Pillai,vivekpillai@mail.com,9451975887,Female,1984-10-17,Delhi,Delhi,2024/04/25,1377.73,gold
+CU0030,Pallavi Kapoor,pallavikapoor@mail.com,9988918316,Female,08-09-1976,Jaipur,Rajasthan,11/17/2024,1782.85,Regular
+CU0395,Kavya Bhatt,kavyabhatt@mail.com,8295189353,Male,2004/01/13,Pune,Maharashtra,03/01/2023,591.11,Silver
+CU0063,Kavya Iyer,kavyaiyer@mail.com,not_available,Female,1985-12-14,Bengaluru,Karnataka,09/17/2023,513.94,Basic
+CU0325,Arjun Rao,arjunrao@mail.com,9550376494,Male,1991/02/15,Delhi,Delhi,2022/09/18,78.5,silver
+CU0981,Gaurav Malhotra,gauravmalhotra@mail.com,9515220756,Female,2003-08-06,Jaipur,Rajasthan,05/11/2024,1852.43,Basic
+CU0556,Suresh Kapoor,sureshkapoor@mail.com,9079586549,Female,05-10-1984,Kochi,Kerala,27-07-2022,1634.93,Basic
+CU0897,Arjun Pillai,arjunpillai@mail.com,not_available,Male,2005/02/07,Jaipur,Rajasthan,2024-12-26,87.75,gold
+CU0281,Kavya Rao,kavyarao@mail.com,8963642008,Male,09/15/1997,Delhi,Tamil Nadu,10/04/2024,1723.68,gold
+CU0462,Ajay Gupta,ajaygupta@mail.com,7649306170,Male,1997/01/15,Mumbai,Maharashtra,02-09-2021,236.12,gold
+CU0808,Ajay Singh,ajaysingh@mail.com,8080917884,Female,11/27/1988,Kochi,Kerala,2021/12/26,989.95,Regular
+CU0026,Nikhil Das,nikhildas@mail.com,9880327491,Male,07/03/1986,Ahmedabad,Gujarat,12/10/2021,652.37,regular
+CU0107,Manoj Verma,manojverma@mail.com,8479679716,Male,2003-09-21,Pune,Maharashtra,2021-02-17,323.93,regular
+CU0632,Pooja Pandey,poojapandey@mail.com,9278472362,Female,1987-01-04,Kochi,Kerala,08-06-2022,743.32,gold
+CU0769,Deepak Sharma,deepaksharma@mail.com,9251071078,Male,12-04-1998,Hyderabad,Telangana,09/03/2023,1069.51,regular
+CU0089,Priya Reddy,priyareddy@mail.com,not_available,Female,1981-04-05,Mumbai,Maharashtra,25-09-2021,1752.79,Regular
+CU0524,Neha Rao,neharao@mail.com,not_available,Male,11/27/1977,Ahmedabad,Gujarat,04/14/2021,999.15,Gold
+CU0171,Arjun Das,arjundas@mail.com,9084510429,Female,25-11-2003,Delhi,Delhi,2024-01-04,1.35,silver
+CU0792,Ajay Gupta,ajaygupta@mail.com,not_available,Male,12/22/2002,Kochi,Kerala,2022-07-06,1930.6,regular
+CU0366,Deepak Nair,deepaknair@mail.com,8088068733,Female,1989/11/03,Chennai,Tamil Nadu,06-05-2023,124.77,silver
+CU0194,Nikhil Menon,nikhilmenon@mail.com,7083880626,Female,2000/12/12,Kolkata,West Bengal,10/17/2023,359.63,Silver
+CU0510,Amit Pillai,amitpillai@mail.com,7900159659,Female,09/01/1989,Pune,Maharashtra,24-05-2022,1317.7,Silver
+CU0466,Priya Pillai,priyapillai@mail.com,not_available,Male,05-11-1996,Kolkata,West Bengal,07/22/2024,627.39,Silver
+CU0419,Deepak Rao,deepakrao@mail.com,8221649922,Female,19-01-1976,Pune,Maharashtra,19-12-2023,1250.31,silver
+CU0357,Rohit Malhotra,rohitmalhotra@mail.com,8200101356,Female,17-02-1991,Bengaluru,Karnataka,11/21/2021,1807.17,Regular
+CU0603,Rahul Nair,rahulnair@mail.com,not_available,Female,07/07/1995,Mumbai,Maharashtra,10/25/2023,na,gold
+CU0131,Sunita Kulkarni,sunitakulkarni@mail.com,not_available,Female,1980/03/25,Kochi,Kerala,2024/08/28,1365.46,regular
+CU0507,Sanjay Menon,sanjaymenon@mail.com,not_available,Male,10-02-1986,Chennai,Tamil Nadu,02/03/2021,zero,Silver
+CU0726,Manoj Chawla,manojchawla@mail.com,not_available,Female,08/25/2002,Hyderabad,Telangana,2022-07-12,1990.88,gold
+CU0098,Vivek Bhatt,vivekbhatt@mail.com,7782878018,Male,1977/12/25,Delhi,Delhi,04/02/2021,1030.77,Basic
+CU0626,Sneha Iyer,snehaiyer@mail.com,9488308936,Male,20-08-1978,Mumbai,Maharashtra,03-03-2023,722.79,Basic
+CU0870,Isha Das,ishadas@mail.com,not_available,Male,20-10-2005,Chennai,Tamil Nadu,09/26/2022,752.02,regular
+CU0285,Vivek Kapoor,vivekkapoor@mail.com,8550320086,Female,09/26/1992,Kochi,Maharashtra,2023-11-20,1299.73,Regular
+CU0614,Karan Reddy,karanreddy@mail.com,9936346468,Female,1983-05-21,Mumbai,Maharashtra,07/03/2023,902.84,silver
+CU0545,Amit Nair,amitnair@mail.com,7384106725,Male,1988-12-01,Kochi,Kerala,04/24/2023,1903.01,regular
+CU0113,Deepak Chawla,deepakchawla@mail.com,not_available,Female,1990/10/27,Chennai,Tamil Nadu,07/05/2021,1527.71,Silver
+CU0123,Arjun Patel,arjunpatel@mail.com,7384230848,Male,24-12-1992,Pune,Maharashtra,2022/01/27,372.62,regular
+CU0796,Deepak Reddy,deepakreddy@mail.com,not_available,Male,08-03-2000,Mumbai,Maharashtra,2023-10-04,369.25,regular
+CU0973,Priya Kapoor,priyakapoor@mail.com,8824711183,Female,1997-05-19,Hyderabad,Telangana,2023/02/13,1780.51,Silver
+CU0824,Vikram Rao,vikramrao@mail.com,not_available,Female,11/03/1995,Jaipur,Rajasthan,20-01-2023,118.29,Silver
+CU0847,Pallavi Iyer,pallaviiyer@mail.com,9621467838,Male,26-02-1996,Mumbai,Delhi,02/11/2023,301.21,gold
+CU0871,Vivek Sharma,viveksharma@mail.com,not_available,Male,01-05-1979,Hyderabad,Telangana,2024/03/15,1187.69,Basic
+CU0536,Suresh Chatterjee,sureshchatterjee@mail.com,7810989695,Female,07/09/1980,Kolkata,West Bengal,2024/10/10,1848.64,Basic
+CU0071,Divya Pandey,divyapandey@mail.com,not_available,Female,01-11-1989,Jaipur,Rajasthan,2024/11/04,887.12,Gold
+CU0515,Sanjay Verma,sanjayverma@mail.com,8060170258,Female,2004/10/16,Jaipur,Rajasthan,2021/05/21,1685.28,Basic
+CU0473,Kavya Kapoor,kavyakapoor@mail.com,7519117351,Female,1993-05-02,Mumbai,Maharashtra,2023/05/10,zero,gold
+CU0665,Nikhil Verma,nikhilverma@mail.com,not_available,Male,11/24/1986,Jaipur,Rajasthan,05/26/2022,136.42,Basic
+CU0771,Nisha Verma,nishaverma@mail.com,8300347998,Male,1981/04/08,Jaipur,Rajasthan,26-06-2021,232.81,Gold
+CU0499,Isha Reddy,ishareddy@mail.com,not_available,Female,2000-12-13,Hyderabad,Telangana,01-06-2021,1109.38,gold
+CU0436,Vivek Chatterjee,vivekchatterjee@mail.com,not_available,Male,2004-09-21,Mumbai,Maharashtra,2022-05-23,,Regular
+CU0943,Shreya Chatterjee,shreyachatterjee@mail.com,not_available,Male,21-08-2003,Kochi,Kerala,03-06-2022,na,silver
+CU0807,Ritu Patel,ritupatel@mail.com,not_available,Male,12/20/1977,Bengaluru,Karnataka,2024/12/14,fifty,Basic
+CU0940,Sanjay Pandey,sanjaypandey@mail.com,9211441979,Male,10/08/1990,Delhi,Delhi,2023/11/06,717.5,Regular
+CU0219,Nisha Gupta,nishagupta@mail.com,7815679418,Female,1998/12/08,Kochi,Kerala,2022-11-18,941.56,regular
+CU0845,Swati Pillai,swatipillai@mail.com,8687190115,Male,1990/02/18,Chennai,Tamil Nadu,2024-01-07,1779.85,regular
+CU0506,Sneha Patel,snehapatel@mail.com,9508098662,Male,09/20/1989,Hyderabad,Telangana,2024/07/12,764.74,gold
+CU0228,Nikhil Singh,nikhilsingh@mail.com,8798842890,Male,20-12-1991,Chennai,Tamil Nadu,2021-08-07,1663.0,gold
+CU0214,Karan Chawla,karanchawla@mail.com,8993803105,Female,22-02-1995,Bengaluru,Karnataka,2024/03/28,699.52,gold
+CU0356,Isha Sharma,ishasharma@mail.com,8016833346,Female,09/19/1988,Delhi,Delhi,12-12-2024,1923.48,Gold
+CU0636,Sunita Malhotra,sunitamalhotra@mail.com,not_available,Male,1977/08/04,Chennai,Tamil Nadu,07/03/2023,94.15,Silver
+CU0691,Manoj Verma,manojverma@mail.com,7964568093,Female,04-12-1992,Ahmedabad,Gujarat,2024-06-09,586.13,gold
+CU0548,Deepak Sharma,deepaksharma@mail.com,not_available,Male,07/14/2002,Kochi,Kerala,2022-09-22,18.38,Basic
+CU0544,Suresh Iyer,sureshiyer@mail.com,9167397784,Male,26-08-1979,Chennai,Tamil Nadu,15-03-2024,1081.34,gold
+CU0155,Amit Bhatt,amitbhatt@mail.com,7297034217,Female,08/05/1996,Bengaluru,Karnataka,2022/12/14,,Regular
+CU0184,Nikhil Gupta,nikhilgupta@mail.com,not_available,Male,2005/07/03,Chennai,Tamil Nadu,2023/06/03,zero,Silver
+CU0550,Anjali Singh,anjalisingh@mail.com,9054208760,Male,1990/05/23,Delhi,Delhi,2023-03-27,1868.87,gold
+CU0066,Pooja Pillai,poojapillai@mail.com,not_available,Male,2005/01/10,Mumbai,Maharashtra,07/15/2022,1486.28,Regular
+CU0186,Arjun Sharma,arjunsharma@mail.com,8320748157,Male,1981/09/08,Jaipur,Rajasthan,09-12-2022,zero,Basic
+CU0612,Manoj Das,manojdas@mail.com,7368605032,Male,1998/02/13,Bengaluru,Karnataka,2021/06/11,1482.57,Gold
+CU0327,Nisha Malhotra,nishamalhotra@mail.com,not_available,Male,1987/07/11,Delhi,Delhi,08/03/2022,1297.15,regular
+CU0461,Gaurav Singh,gauravsingh@mail.com,9162425423,Male,2000/02/11,Mumbai,Maharashtra,2021/09/08,680.65,Silver
+CU0971,Vikram Kapoor,vikramkapoor@mail.com,not_available,Female,01-07-1998,Ahmedabad,Gujarat,04/10/2021,1515.47,regular
+CU0062,Ajay Gupta,ajaygupta@mail.com,8229194523,Male,1994-06-08,Ahmedabad,Gujarat,04-11-2022,881.65,Regular
+CU0819,Suresh Kulkarni,sureshkulkarni@mail.com,9594553624,Male,1998-06-23,Jaipur,Rajasthan,2021/08/20,872.37,gold
+CU0078,Isha Verma,ishaverma@mail.com,9653594796,Male,1996/02/09,Hyderabad,Telangana,2024-07-09,227.64,silver
+CU0393,Pooja Nair,poojanair@mail.com,8597308268,Female,01/05/1999,Chennai,Tamil Nadu,10/06/2022,350.72,regular
+CU0383,Anjali Bhatt,anjalibhatt@mail.com,8475647712,Male,2003-05-20,Ahmedabad,Gujarat,2022/02/14,432.89,silver
+CU0841,Deepak Kapoor,deepakkapoor@mail.com,7151162327,Male,1975/11/27,Ahmedabad,Gujarat,2023/11/20,1496.14,regular
+CU0773,Sanjay Sharma,sanjaysharma@mail.com,not_available,Female,1994-05-16,Kochi,Kerala,11/10/2023,498.04,Silver
+CU0722,Meera Chatterjee,meerachatterjee@mail.com,8732024395,Female,1992-09-21,Mumbai,Maharashtra,12/07/2021,1127.32,gold
+CU0552,Sneha Malhotra,snehamalhotra@mail.com,7837914507,Female,11-03-1978,Chennai,Tamil Nadu,2022/10/05,582.16,gold
+CU0381,Nisha Joshi,nishajoshi@mail.com,not_available,Male,1985-04-04,Hyderabad,Telangana,2024/04/03,108.68,silver
+CU0362,Karan Singh,karansingh@mail.com,7719838233,Female,1987/08/10,Kolkata,West Bengal,2024-08-09,869.47,Silver
+CU0529,Neha Verma,nehaverma@mail.com,7826632812,Male,1995-03-07,Mumbai,Maharashtra,17-04-2022,934.15,gold
+CU0534,Ajay Chawla,ajaychawla@mail.com,9957039450,Female,1997/01/21,Hyderabad,Telangana,08/02/2022,1352.85,regular
+CU0455,Pallavi Sharma,pallavisharma@mail.com,not_available,Male,1995-04-14,Mumbai,Maharashtra,2024/03/16,zero,gold
+CU0181,Vikram Nair,vikramnair@mail.com,8154334685,Male,1999/01/11,Chennai,Tamil Nadu,19-12-2023,1021.56,Gold
+CU0472,Meera Bhatt,meerabhatt@mail.com,8790667841,Male,1979/09/05,Jaipur,Rajasthan,2021/12/07,1492.99,Regular
+CU0826,Amit Chawla,amitchawla@mail.com,not_available,Male,1994-06-19,Jaipur,Rajasthan,2022/09/05,fifty,Regular
+CU0471,Rohit Pillai,rohitpillai@mail.com,7267119789,Female,2003-03-16,Jaipur,Rajasthan,2024/10/18,1168.61,regular
+CU0440,Isha Singh,ishasingh@mail.com,not_available,Male,1976/06/08,Kochi,Kerala,2021/01/09,789.39,Silver
+CU0102,Nikhil Nair,nikhilnair@mail.com,9609505739,Female,1976-03-03,Kochi,Kerala,2021/10/05,744.03,Basic
+CU0191,Karan Menon,karanmenon@mail.com,not_available,Female,21-11-1986,Ahmedabad,Gujarat,2021-01-03,886.86,gold
+CU0037,Deepak Reddy,deepakreddy@mail.com,8584392711,Male,24-10-1994,Pune,Maharashtra,10/01/2021,1816.05,silver
+CU0309,Vivek Singh,viveksingh@mail.com,9451001264,Male,01/15/1978,Pune,Maharashtra,2023-10-08,600.6,Regular
+CU0984,Vikram Joshi,vikramjoshi@mail.com,7189058283,Female,1990-04-05,Mumbai,Maharashtra,14-02-2024,643.68,gold
+CU0177,Swati Menon,swatimenon@mail.com,9145690670,Male,01/12/1991,Pune,Maharashtra,2024-06-18,1908.91,Basic
+CU0512,Sneha Das,snehadas@mail.com,8412362910,Female,1995-05-03,Mumbai,Maharashtra,2022/01/27,zero,Gold
+CU0758,Pallavi Rao,pallavirao@mail.com,8930398504,Male,03/13/2004,Delhi,Delhi,2023-08-21,196.65,Regular
+CU0337,Neha Nair,nehanair@mail.com,not_available,Female,2004/11/16,Delhi,Delhi,2024/03/21,1073.94,Silver
+CU0747,Pallavi Bhatt,pallavibhatt@mail.com,7171130607,Male,08/15/2002,Delhi,Delhi,05/14/2023,1533.67,Gold
+CU0519,Sunita Iyer,sunitaiyer@mail.com,not_available,Female,03-08-1990,Kolkata,West Bengal,03/16/2024,341.18,Gold
+CU0080,Nisha Pillai,nishapillai@mail.com,not_available,Female,12/08/1992,Mumbai,Maharashtra,2021/07/01,1724.22,Regular
+CU0003,Rahul Kapoor,rahulkapoor@mail.com,8136108454,Male,18-08-1998,Hyderabad,Telangana,11/20/2023,1409.14,Gold
+CU0864,Shreya Singh,shreyasingh@mail.com,not_available,Female,1994/12/16,Hyderabad,Telangana,22-08-2022,212.02,Silver
+CU0041,Kavya Singh,kavyasingh@mail.com,not_available,Female,1992-01-17,Mumbai,Maharashtra,2024-08-18,1291.81,silver
+CU0109,Aarti Pandey,aartipandey@mail.com,9420721027,Male,03-01-2001,Ahmedabad,Gujarat,14-10-2022,1254.33,Silver
+CU0600,Deepak Pillai,deepakpillai@mail.com,not_available,Male,12/05/1990,Jaipur,Rajasthan,26-08-2023,311.77,regular
+CU0821,Ajay Iyer,ajayiyer@mail.com,8941805071,Female,12/22/1992,Kochi,Kerala,03/25/2024,1941.78,Gold
+CU0901,Meera Kapoor,meerakapoor@mail.com,7633023354,Female,1979/12/23,Delhi,Delhi,02/17/2021,17.71,Basic
+CU0975,Sneha Kapoor,snehakapoor@mail.com,8895288194,Male,1982-12-07,Kochi,Kerala,2023/01/19,560.82,Regular
+CU0025,Priya Chatterjee,priyachatterjee@mail.com,7465585404,Female,12/26/1986,Hyderabad,Telangana,2021-07-19,1417.57,Gold
+CU0736,Aarti Nair,aartinair@mail.com,8387235610,Female,22-07-1993,Kochi,Kerala,2023/01/06,673.34,Gold
+CU0108,Divya Chawla,divyachawla@mail.com,8219978197,Male,04/21/1983,Pune,Maharashtra,2021-09-21,1161.29,gold
+CU0830,Meera Rao,meerarao@mail.com,7102366896,Female,1978/06/18,Ahmedabad,Gujarat,25-05-2024,83.27,Gold
+CU0667,Nisha Nair,nishanair@mail.com,not_available,Male,11/16/1990,Bengaluru,Karnataka,2022/02/06,840.11,Gold
+CU0398,Arjun Pandey,arjunpandey@mail.com,9863739834,Female,1987/03/23,Kochi,Kerala,05/12/2021,891.15,Regular
+CU0710,Shreya Reddy,shreyareddy@mail.com,8698772472,Male,03/12/1984,Hyderabad,Telangana,02-01-2022,1053.11,Regular
+CU0761,Amit Chatterjee,amitchatterjee@mail.com,9590934669,Female,15-03-1982,Ahmedabad,Gujarat,15-04-2022,fifty,regular
+CU0652,Sanjay Chatterjee,sanjaychatterjee@mail.com,8238705235,Male,1975-08-22,Jaipur,Rajasthan,2023-10-18,576.52,Basic
+CU0139,Nisha Kulkarni,nishakulkarni@mail.com,7878377268,Female,04/18/2004,Chennai,Tamil Nadu,05/09/2023,994.55,Gold
+CU0988,Rahul Kulkarni,rahulkulkarni@mail.com,not_available,Female,02-01-1989,Delhi,Delhi,07/12/2022,1447.8,Silver
+CU0798,Neha Iyer,nehaiyer@mail.com,8021469208,Male,1987/06/01,Jaipur,Rajasthan,2022/11/28,429.67,Regular
+CU0117,Aarti Kapoor,aartikapoor@mail.com,9955124970,Male,1994-08-09,Delhi,Delhi,2022/09/21,1361.45,Gold
+CU0249,Amit Pandey,amitpandey@mail.com,9788722772,Male,1978/11/12,Bengaluru,Karnataka,01/22/2022,1592.41,Gold
+CU0932,Meera Das,meeradas@mail.com,7904588768,Male,28-03-1977,Chennai,Tamil Nadu,2021-04-15,986.96,Gold
+CU0430,Priya Reddy,priyareddy@mail.com,8092235611,Male,12-09-1990,Kochi,Kerala,11/08/2024,1873.94,Silver
+CU0706,Shreya Kulkarni,shreyakulkarni@mail.com,not_available,Male,1978/05/14,Kochi,Kerala,2024/02/06,1321.23,Silver
+CU0846,Rahul Malhotra,rahulmalhotra@mail.com,7102372246,Male,1987-10-22,Chennai,Tamil Nadu,2022-11-13,632.98,gold
+CU0720,Sunita Iyer,sunitaiyer@mail.com,not_available,Female,1975-06-14,Pune,Maharashtra,2021-05-23,187.7,silver
+CU0590,Anjali Malhotra,anjalimalhotra@mail.com,not_available,Male,1994/02/13,Delhi,Delhi,2021-11-02,167.19,gold
+CU0023,Sunita Joshi,sunitajoshi@mail.com,9877229210,Male,26-03-1983,Hyderabad,Telangana,2024/04/07,1641.07,Basic
+CU0010,Ajay Iyer,ajayiyer@mail.com,not_available,Female,09/06/2005,Kolkata,West Bengal,2024-04-18,797.98,regular
+CU0921,Manoj Nair,manojnair@mail.com,not_available,Female,2005-07-06,Delhi,Delhi,23-10-2022,fifty,Silver
+CU0968,Divya Kulkarni,divyakulkarni@mail.com,7210167478,Female,1975-07-15,Delhi,Delhi,12/15/2021,220.83,Silver
+CU0784,Arjun Verma,arjunverma@mail.com,9397840036,Male,26-03-1992,Ahmedabad,Gujarat,2022/02/25,931.43,regular
+CU0420,Anjali Pillai,anjalipillai@mail.com,not_available,Female,1988-06-02,Bengaluru,Karnataka,03-10-2023,228.94,gold
+CU0770,Shreya Verma,shreyaverma@mail.com,9433967257,Male,1982-05-26,Bengaluru,Karnataka,03/02/2024,182.72,gold
+CU0474,Swati Chatterjee,swatichatterjee@mail.com,8310669246,Female,1981/03/27,Delhi,Delhi,28-02-2023,1146.12,Regular
+CU0013,Sanjay Gupta,sanjaygupta@mail.com,7422701550,Male,11-12-1987,Bengaluru,Karnataka,2024-03-14,499.61,Gold
+CU0251,Shreya Das,shreyadas@mail.com,not_available,Male,1981-11-21,Hyderabad,Telangana,2022/09/27,1879.5,regular
+CU0470,Suresh Das,sureshdas@mail.com,8285061147,Female,1996-12-19,Hyderabad,Telangana,2022-02-11,722.54,Gold
+CU0154,Nisha Kulkarni,nishakulkarni@mail.com,8399670743,Female,12-07-1983,Ahmedabad,Gujarat,25-11-2022,923.24,regular
+CU0834,Divya Pandey,divyapandey@mail.com,8816086528,Female,11/24/1981,Hyderabad,Telangana,07/13/2024,378.99,Basic
+CU0029,Rohit Sharma,rohitsharma@mail.com,not_available,Female,1994/02/15,Ahmedabad,Gujarat,2024-08-13,1375.24,Basic
+CU0664,Manoj Pandey,manojpandey@mail.com,8523540298,Male,12/15/1989,Delhi,Delhi,2023-09-28,1412.45,silver
+CU0678,Sanjay Nair,sanjaynair@mail.com,not_available,Female,1986-10-21,Chennai,Tamil Nadu,22-08-2024,152.76,Regular
+CU0931,Rohit Reddy,rohitreddy@mail.com,not_available,Female,08-07-1983,Delhi,Delhi,2022-04-14,1651.84,gold
+CU0960,Ajay Joshi,ajayjoshi@mail.com,not_available,Male,07-10-1980,Bengaluru,Kerala,12/18/2021,1315.8,Gold
+CU0160,Priya Das,priyadas@mail.com,not_available,Female,2005/08/08,Pune,Maharashtra,2024-07-01,859.11,Gold
+CU0161,Suresh Reddy,sureshreddy@mail.com,not_available,Male,1993-02-26,Kochi,Kerala,2024/02/09,1278.22,Regular
+CU0443,Sunita Bhatt,sunitabhatt@mail.com,not_available,Male,06-04-1976,Jaipur,Rajasthan,2024/07/04,na,regular
+CU0832,Nisha Malhotra,nishamalhotra@mail.com,8592676628,Male,2004/04/04,Pune,Maharashtra,2023-02-23,1142.29,Regular
+CU0412,Ritu Chawla,rituchawla@mail.com,7174412453,Male,1985/08/04,Chennai,Tamil Nadu,2023/11/27,814.56,Basic
+CU0875,Suresh Iyer,sureshiyer@mail.com,7890151602,Female,02/25/1980,Bengaluru,Karnataka,2021-01-21,84.35,Basic
+CU0223,Ajay Nair,ajaynair@mail.com,7378134712,Male,1994/07/21,Hyderabad,Telangana,01-07-2024,1461.32,Gold
+CU0670,Anjali Reddy,anjalireddy@mail.com,not_available,Male,2003/01/12,Ahmedabad,Gujarat,2021/06/06,414.95,Basic
+CU0432,Pallavi Menon,pallavimenon@mail.com,8687817209,Female,1984-02-27,Chennai,Tamil Nadu,08/21/2022,1533.48,silver
+CU0457,Deepak Pandey,deepakpandey@mail.com,7158987731,Female,1987/08/17,Bengaluru,Karnataka,07/19/2021,535.7,regular
+CU0496,Karan Iyer,karaniyer@mail.com,not_available,Female,11/25/1991,Chennai,Tamil Nadu,03/16/2022,582.13,Gold
+CU0939,Sneha Gupta,snehagupta@mail.com,7825699489,Male,2003/07/27,Mumbai,Maharashtra,27-10-2023,568.89,Gold
+CU0005,Divya Nair,divyanair@mail.com,9748778024,Male,27-06-1996,Bengaluru,Karnataka,09-07-2023,1885.82,regular
+CU0509,Vivek Chatterjee,vivekchatterjee@mail.com,,Male,2002-07-08,Bengaluru,Karnataka,2024/12/27,171.75,Basic
+CU0816,Anjali Patel,anjalipatel@mail.com,8390866292,Male,1989-01-08,Chennai,Karnataka,2022/04/08,431.94,Gold
+CU0934,Vikram Joshi,vikramjoshi@mail.com,8738212308,Male,10/10/2005,Mumbai,Maharashtra,2022/04/08,1852.1,regular
+CU0636,Sunita Malhotra,sunitamalhotra@mail.com,not_available,Male,1977/08/04,Chennai,Tamil Nadu,07/03/2023,94.15,Silver
+CU0133,Shreya Pillai,shreyapillai@mail.com,8063056115,Female,1986-03-09,Mumbai,West Bengal,07-04-2021,67.15,Regular
+CU0126,Rohit Kulkarni,rohitkulkarni@mail.com,not_available,Male,1975-05-13,Jaipur,Rajasthan,19-05-2023,719.1,gold
+CU0166,Manoj Menon,manojmenon@mail.com,not_available,Male,12-05-1989,Jaipur,Rajasthan,04/07/2021,1220.52,silver
+CU0843,Pooja Iyer,poojaiyer@mail.com,not_available,Female,1997-09-28,Hyderabad,Telangana,2023/04/13,921.16,silver
+CU0976,Gaurav Bhatt,gauravbhatt@mail.com,8016659593,Male,1977-05-26,Delhi,Delhi,06-09-2023,979.1,gold
+CU0299,Sneha Menon,snehamenon@mail.com,not_available,Male,11-10-1996,Delhi,Delhi,18-12-2022,465.35,Regular
+CU0324,Meera Menon,meeramenon@mail.com,7878587567,Male,1980/08/28,Kochi,Kerala,13-07-2022,1648.66,regular
+CU0628,Gaurav Nair,gauravnair@mail.com,7135078768,Male,16-06-1985,Pune,Maharashtra,07-02-2023,1035.99,Basic
+CU0606,Arjun Pillai,arjunpillai@mail.com,9156834290,Male,1975/10/26,Jaipur,Rajasthan,2021-05-06,157.51,regular
+CU0910,Rahul Das,rahuldas@mail.com,,Male,2000/05/16,Kolkata,West Bengal,2023/09/19,101.99,silver
+CU0130,Shreya Bhatt,shreyabhatt@mail.com,7093503397,Female,1983-01-24,Ahmedabad,Gujarat,23-06-2024,120.51,Gold
+CU0633,Ajay Joshi,ajayjoshi@mail.com,not_available,Female,01/23/1997,Bengaluru,Karnataka,18-04-2023,1203.6,Regular
+CU0227,Manoj Sharma,manojsharma@mail.com,not_available,Male,13-08-1988,Kolkata,West Bengal,23-04-2022,1323.33,regular
+CU0593,Rohit Chawla,rohitchawla@mail.com,9939550656,Female,27-12-1996,Jaipur,Rajasthan,04/04/2021,1231.39,Gold
+CU0363,Sunita Bhatt,sunitabhatt@mail.com,9277421089,Male,09/21/1978,Hyderabad,Telangana,06/09/2023,510.69,Regular
+CU0156,Rahul Das,rahuldas@mail.com,9970866955,Female,01/26/1992,Kolkata,West Bengal,2021-02-25,710.02,regular
+CU0387,Pallavi Chawla,pallavichawla@mail.com,7005856809,Male,11-12-1987,Chennai,Tamil Nadu,2023-12-20,161.92,Silver
+CU0211,Rohit Pandey,rohitpandey@mail.com,7166569717,Female,2003-06-23,Delhi,Delhi,06/01/2023,606.11,Silver
+CU0373,Rohit Chatterjee,rohitchatterjee@mail.com,not_available,Male,1976/12/05,Delhi,Delhi,2021-04-23,fifty,Silver
+CU0904,Rahul Sharma,rahulsharma@mail.com,not_available,Female,1987-08-20,Pune,Maharashtra,2024-11-28,1042.52,silver
+CU0308,Shreya Singh,shreyasingh@mail.com,8705490992,Male,10-01-1998,Kolkata,West Bengal,2023-01-10,629.81,Basic
+CU0699,Arjun Kapoor,arjunkapoor@mail.com,not_available,Male,1978/05/09,Jaipur,Rajasthan,09-05-2022,1332.87,gold
+CU0916,Swati Malhotra,swatimalhotra@mail.com,not_available,Male,1990/09/20,Jaipur,Rajasthan,23-03-2023,1397.86,silver
+CU0531,Rahul Nair,rahulnair@mail.com,9617328226,Female,1999/03/27,Delhi,Delhi,02/25/2024,305.6,regular
+CU0239,Ritu Iyer,rituiyer@mail.com,8757546829,Male,1983-10-07,Mumbai,Maharashtra,2024-04-15,215.53,silver
+CU0296,Karan Singh,karansingh@mail.com,9019265031,Male,1981/05/27,Delhi,Delhi,2022/07/25,1989.07,gold
+CU0483,Isha Singh,ishasingh@mail.com,8509328461,Male,10-09-1993,Pune,Maharashtra,2021/05/03,1661.0,regular
+CU0484,Shreya Singh,shreyasingh@mail.com,9168186443,Female,11/11/2003,Jaipur,Rajasthan,2023/06/07,656.91,regular
+CU0046,Ajay Pillai,ajaypillai@mail.com,7969318858,Female,1989/08/10,Chennai,Tamil Nadu,24-10-2021,415.58,gold
+CU0721,Arjun Kapoor,arjunkapoor@mail.com,not_available,Female,03/03/1994,Kolkata,West Bengal,2023-11-01,1641.51,Basic
+CU0570,Anjali Patel,anjalipatel@mail.com,not_available,Female,1983/04/01,Bengaluru,Karnataka,2021/08/20,fifty,Regular
+CU0087,Manoj Joshi,manojjoshi@mail.com,not_available,Male,11/13/1992,Chennai,Tamil Nadu,2022-06-03,620.46,regular
+CU0857,Karan Verma,karanverma@mail.com,7827376419,Female,2001/04/23,Ahmedabad,Gujarat,24-05-2024,1015.17,Gold
+CU0241,Rohit Kapoor,rohitkapoor@mail.com,8382308441,Female,1988-10-23,Chennai,Tamil Nadu,2023-05-15,1205.05,regular
+CU0928,Kavya Gupta,kavyagupta@mail.com,9806469135,Female,10/10/1977,Kolkata,West Bengal,08/03/2021,620.68,Regular
+CU0662,Vikram Pandey,vikrampandey@mail.com,9650675666,Male,21-03-1988,Pune,Maharashtra,2022-03-17,580.07,regular
+CU0242,Nikhil Patel,nikhilpatel@mail.com,8348236583,Male,04/20/1981,Kochi,Kerala,2022-12-21,1388.62,Silver
+CU0336,Swati Reddy,swatireddy@mail.com,not_available,Male,09-05-1997,Chennai,Tamil Nadu,01/04/2023,1448.79,Regular
+CU0919,Ritu Nair,ritunair@mail.com,not_available,Male,01/13/2002,Delhi,Delhi,06-12-2021,1105.65,Silver
+CU0374,Vivek Kapoor,vivekkapoor@mail.com,9538508163,Male,2001/02/04,Ahmedabad,Gujarat,2022-02-26,1623.04,regular
+CU0043,Vikram Menon,vikrammenon@mail.com,not_available,Male,1985-02-24,Bengaluru,Karnataka,05/24/2024,1665.26,Silver
+CU0104,Vikram Singh,vikramsingh@mail.com,9627992499,Female,07-08-1997,Pune,Maharashtra,2024/03/23,1621.03,Basic
+CU0704,Priya Kulkarni,priyakulkarni@mail.com,not_available,Male,1995-02-17,Delhi,Delhi,2024-09-20,77.63,regular
+CU0946,Isha Chawla,ishachawla@mail.com,not_available,Male,1990-09-07,Pune,Maharashtra,2023-09-13,1899.63,Basic
+CU0877,Karan Reddy,karanreddy@mail.com,not_available,Female,23-06-1975,Ahmedabad,Gujarat,2022-07-07,1830.4,regular
+CU0951,Neha Kapoor,nehakapoor@mail.com,not_available,Female,11/10/1980,Hyderabad,Telangana,2024-04-24,1530.19,Silver
+CU0876,Divya Iyer,divyaiyer@mail.com,8372066031,Female,1987/11/22,Delhi,Delhi,2023/08/01,80.26,Regular
+CU0842,Ritu Pandey,ritupandey@mail.com,not_available,Female,03/15/1990,Bengaluru,Karnataka,2022-07-09,41.87,Basic
+CU0648,Neha Kulkarni,nehakulkarni@mail.com,7194031677,Male,1993-11-10,Kolkata,West Bengal,02/04/2022,671.35,silver
+CU0347,Sunita Chawla,sunitachawla@mail.com,9856929012,Female,2000/06/15,Delhi,Delhi,2021/06/16,564.51,Silver
+CU0213,Ajay Malhotra,ajaymalhotra@mail.com,9213066496,Male,1977/05/23,Pune,Maharashtra,2021-03-07,498.98,silver
+CU0288,Meera Nair,meeranair@mail.com,not_available,Male,12/08/1979,Mumbai,Maharashtra,04-02-2024,946.37,Gold
+CU0203,Priya Rao,priyarao@mail.com,not_available,Male,1992/02/11,Delhi,Delhi,2022-10-14,na,gold
+CU0692,Arjun Menon,arjunmenon@mail.com,7991668003,Female,1985-12-04,Jaipur,Rajasthan,06/03/2024,152.89,Silver
+CU0217,Vivek Pandey,vivekpandey@mail.com,9196934660,Female,11/20/1992,Chennai,Tamil Nadu,02/11/2024,1722.98,Silver
+CU0426,Meera Pillai,meerapillai@mail.com,not_available,Male,1995/04/28,Chennai,Tamil Nadu,2022-05-22,227.12,gold
+CU0938,Swati Iyer,swatiiyer@mail.com,,Male,03/10/1976,Kochi,Kerala,01/06/2021,77.88,Regular
+CU0137,Meera Pillai,meerapillai@mail.com,8043069385,Female,21-06-1981,Jaipur,Rajasthan,2021-09-24,,regular
+CU0511,Arjun Menon,arjunmenon@mail.com,8732455428,Female,01-10-1985,Pune,Maharashtra,2023/10/21,408.41,silver
+CU0035,Neha Verma,nehaverma@mail.com,8982979741,Male,05/13/1976,Bengaluru,Karnataka,2023/07/09,163.81,Gold
+CU0783,Rohit Kapoor,rohitkapoor@mail.com,9088889690,Male,09/02/2001,Delhi,Delhi,09/28/2021,984.02,Regular
+CU0335,Swati Nair,swatinair@mail.com,8247636714,Male,1975/02/01,Mumbai,Maharashtra,2022/10/14,na,Regular
+CU0267,Isha Chatterjee,ishachatterjee@mail.com,not_available,Female,04-03-1987,Bengaluru,Karnataka,20-03-2024,1803.22,Regular
+CU0290,Karan Chawla,karanchawla@mail.com,9045069031,Female,2002/09/09,Pune,Maharashtra,2022/10/20,1271.7,Regular
+CU0683,Ajay Chatterjee,ajaychatterjee@mail.com,not_available,Male,1985/12/27,Hyderabad,Telangana,2021/02/18,1864.95,Silver
+CU0689,Arjun Chatterjee,arjunchatterjee@mail.com,8786576136,Male,1995-07-10,Delhi,Delhi,06/14/2023,1947.0,Regular
+CU0157,Isha Gupta,ishagupta@mail.com,9777742652,Female,2005/06/26,Mumbai,Telangana,2022-09-24,782.27,Basic
+CU0920,Sneha Malhotra,snehamalhotra@mail.com,8259081740,Male,2002-07-09,Bengaluru,Karnataka,2022-09-03,1241.89,Regular
+CU0212,Vivek Kulkarni,vivekkulkarni@mail.com,7979069637,Male,12/15/1984,Chennai,Tamil Nadu,2021-04-15,814.34,silver
+CU0739,Gaurav Pandey,gauravpandey@mail.com,7852388413,Male,11-11-1979,Mumbai,Maharashtra,2022/06/15,1.69,gold
+CU0036,Nisha Das,nishadas@mail.com,not_available,Female,03-11-1982,Delhi,Delhi,2022-01-20,947.12,Gold
+CU0723,Swati Malhotra,swatimalhotra@mail.com,8418027227,Female,2005/12/28,Bengaluru,Karnataka,2022-04-03,950.93,Gold
+CU0801,Pallavi Malhotra,pallavimalhotra@mail.com,not_available,Male,08-11-1979,Bengaluru,Karnataka,2023-09-20,1061.12,Gold
+CU0236,Divya Das,divyadas@mail.com,8009317340,Male,1989/08/26,Mumbai,Maharashtra,2024/06/04,35.54,silver
+CU0688,Divya Gupta,divyagupta@mail.com,8105718202,Male,18-06-1996,Ahmedabad,Gujarat,2021/02/17,154.9,gold
+CU0591,Manoj Pandey,manojpandey@mail.com,not_available,Male,02/18/2005,Mumbai,Maharashtra,2024-10-15,957.82,gold
+CU0675,Vikram Gupta,vikramgupta@mail.com,not_available,Female,04/21/1991,Hyderabad,Telangana,02-01-2022,1622.73,Regular
+CU0276,Sunita Rao,sunitarao@mail.com,8748629903,Male,02/17/1992,Kochi,Kerala,09/27/2023,1932.11,Regular
+CU0192,Sneha Joshi,snehajoshi@mail.com,not_available,Female,1976/03/19,Hyderabad,Telangana,2024-11-14,1816.61,Silver
+CU0781,Rohit Iyer,rohitiyer@mail.com,9413068920,Male,04/11/1989,Kolkata,West Bengal,2023-12-01,136.01,Basic
+CU0608,Amit Pandey,amitpandey@mail.com,9434820663,Female,01/05/1978,Kolkata,West Bengal,2021/08/04,1868.11,gold
+CU0989,Nikhil Iyer,nikhiliyer@mail.com,8012760926,Female,1979-05-17,Kochi,Kerala,2021-06-10,750.65,Gold
+CU0086,Sneha Malhotra,snehamalhotra@mail.com,,Female,1989-09-17,Kochi,Kerala,07/14/2023,104.73,regular
+CU0064,Ritu Patel,ritupatel@mail.com,7494650131,Female,2005-02-05,Hyderabad,Telangana,2023/02/26,fifty,silver
+CU0488,Ritu Nair,ritunair@mail.com,9429693268,Male,05-10-1977,Pune,Maharashtra,09/24/2022,1355.96,regular
+CU0434,Nisha Das,nishadas@mail.com,7117471169,Male,1995/11/06,Pune,Kerala,19-06-2023,499.21,regular
+CU0372,Manoj Patel,manojpatel@mail.com,8929760035,Male,06/02/1976,Delhi,Delhi,2022/11/22,1740.4,Regular
+CU0596,Nisha Singh,nishasingh@mail.com,not_available,Female,1979/03/25,Kochi,Kerala,2024/08/23,1273.21,gold
+CU0196,Karan Menon,karanmenon@mail.com,8668262032,Female,2004-03-06,Ahmedabad,Gujarat,10/01/2023,1127.21,Regular
+CU0314,Sneha Kapoor,snehakapoor@mail.com,8495970877,Male,20-06-1985,Chennai,Tamil Nadu,2023/10/27,880.93,Basic
+CU0185,Deepak Patel,deepakpatel@mail.com,8581723170,Female,1999-04-24,Pune,West Bengal,04/18/2021,1386.92,Gold
+CU0685,Arjun Chatterjee,arjunchatterjee@mail.com,8553467636,Female,26-05-1996,Mumbai,Maharashtra,2023-05-28,34.53,Gold
+CU0895,Manoj Kapoor,manojkapoor@mail.com,8036713346,Female,1976/06/10,Bengaluru,Karnataka,2021-01-22,1350.49,Gold
+CU0752,Vikram Malhotra,vikrammalhotra@mail.com,7778507543,Female,1983-01-14,Delhi,Delhi,2022/05/09,1951.8,Silver
+CU0189,Shreya Chawla,shreyachawla@mail.com,8324171556,Female,1983-02-03,Chennai,Tamil Nadu,04/27/2021,1422.31,Silver
+CU0122,Divya Menon,divyamenon@mail.com,not_available,Female,16-12-1985,Pune,Tamil Nadu,2024/11/16,1511.82,Silver
+CU0858,Priya Reddy,priyareddy@mail.com,not_available,Male,23-02-1997,Bengaluru,Karnataka,2023/04/06,1184.62,Regular
+CU0205,Manoj Pandey,manojpandey@mail.com,7888856289,Male,1995/05/03,Mumbai,Maharashtra,08/16/2024,1088.25,gold
+CU0554,Priya Gupta,priyagupta@mail.com,not_available,Female,1993/07/05,Bengaluru,Tamil Nadu,2024-08-10,750.74,regular
+CU0269,Ajay Rao,ajayrao@mail.com,9992336359,Male,1988/03/09,Bengaluru,Karnataka,2021/05/20,10.94,regular
+CU0163,Rohit Malhotra,rohitmalhotra@mail.com,9468773157,Female,1988-03-16,Kolkata,West Bengal,03/06/2023,1238.82,Basic
+CU0629,Rohit Reddy,rohitreddy@mail.com,7931826598,Male,08-03-1985,Pune,Maharashtra,04/03/2024,1303.85,silver
+CU0994,Rahul Patel,rahulpatel@mail.com,7672901159,Female,06/25/2005,Delhi,Delhi,12/22/2022,1366.37,Silver
+CU0998,Nisha Kapoor,nishakapoor@mail.com,7853061625,Male,1993-02-21,Jaipur,Rajasthan,2024-11-11,,Basic
+CU0361,Karan Joshi,karanjoshi@mail.com,9557842371,Male,2001/08/25,Hyderabad,Telangana,2024-12-21,1468.72,Silver
+CU0265,Karan Iyer,karaniyer@mail.com,9703855522,Male,05-10-2003,Pune,Maharashtra,13-09-2022,1455.95,Basic
+CU0456,Nisha Bhatt,nishabhatt@mail.com,8930657701,Male,1981/05/19,Delhi,Delhi,2021/11/28,1697.23,regular
+CU0341,Nikhil Sharma,nikhilsharma@mail.com,7661759010,Male,08/24/1985,Kochi,Kerala,2021-09-22,73.11,silver
+CU0967,Manoj Kapoor,manojkapoor@mail.com,8765776327,Female,09/22/1996,Jaipur,Rajasthan,04/13/2022,1331.71,regular
+CU0423,Rahul Menon,rahulmenon@mail.com,9483321097,Male,09-06-1993,Ahmedabad,Gujarat,07/07/2024,1303.07,Silver
+CU0259,Ajay Patel,ajaypatel@mail.com,9772623033,Male,2001-05-28,Kolkata,West Bengal,03-12-2021,1263.25,Basic
+CU0611,Isha Gupta,ishagupta@mail.com,9408619421,Male,1979/02/10,Pune,Maharashtra,2021/04/13,697.88,silver
+CU0295,Rohit Bhatt,rohitbhatt@mail.com,7647181551,Male,1990/04/11,Chennai,Tamil Nadu,15-06-2024,1687.09,gold
+CU0844,Sanjay Rao,sanjayrao@mail.com,9857757103,Female,1979-12-17,Bengaluru,Karnataka,10/07/2022,1096.41,Basic
+CU0909,Manoj Joshi,manojjoshi@mail.com,not_available,Female,1986/04/13,Chennai,Tamil Nadu,2024-09-11,144.1,Gold
+CU0672,Isha Das,ishadas@mail.com,not_available,Male,05/27/2001,Hyderabad,Telangana,10-03-2021,482.8,Regular
+CU0941,Pooja Patel,poojapatel@mail.com,8795165755,Male,05/22/2000,Bengaluru,Karnataka,05-12-2022,fifty,gold
+CU0696,Gaurav Joshi,gauravjoshi@mail.com,7194294443,Male,1998/06/15,Jaipur,Rajasthan,2024/05/25,1466.89,regular
+CU0254,Pooja Bhatt,poojabhatt@mail.com,7132367258,Female,1980-09-08,Hyderabad,Telangana,11/05/2023,1828.34,Basic
+CU0996,Nikhil Nair,nikhilnair@mail.com,7576615880,Female,12/02/1994,Delhi,Delhi,2021-05-08,417.87,Basic
+CU0033,Vivek Pillai,vivekpillai@mail.com,9987248494,Male,2002/10/13,Delhi,Delhi,2023/07/28,1469.27,Basic
+CU0040,Vikram Joshi,vikramjoshi@mail.com,7372214308,Female,2003/08/08,Ahmedabad,Gujarat,2024/06/01,363.68,gold
+CU0540,Divya Kulkarni,divyakulkarni@mail.com,7040830454,Male,22-01-1983,Mumbai,Maharashtra,07/20/2021,946.46,Silver
+CU0426,Meera Pillai,meerapillai@mail.com,not_available,Male,1995/04/28,Chennai,Tamil Nadu,2022-05-22,227.12,gold
+CU0495,Anjali Kapoor,anjalikapoor@mail.com,not_available,Male,1993-04-19,Kolkata,West Bengal,2024/08/24,275.35,Gold
+CU0014,Sanjay Das,sanjaydas@mail.com,not_available,Male,1977/04/06,Jaipur,Rajasthan,2024/01/06,,Silver
+CU0500,Pooja Bhatt,poojabhatt@mail.com,not_available,Female,1976-01-07,Chennai,Tamil Nadu,12/06/2023,491.93,gold
+CU0391,Anjali Nair,anjalinair@mail.com,not_available,Male,1990-03-28,Kolkata,West Bengal,2021-05-14,840.26,regular
+CU0681,Sanjay Bhatt,sanjaybhatt@mail.com,,Male,1983/05/19,Chennai,Tamil Nadu,2021/01/09,1725.55,silver
+CU0882,Pooja Bhatt,poojabhatt@mail.com,7684992293,Male,1976-06-07,Hyderabad,Telangana,2023/02/09,594.94,Gold
+CU0756,Ajay Sharma,ajaysharma@mail.com,9107784731,Male,1987/09/05,Ahmedabad,Gujarat,2021-02-13,221.27,Silver
+CU0390,Sanjay Kulkarni,sanjaykulkarni@mail.com,9019338363,Female,12-10-1989,Bengaluru,Karnataka,2024/02/03,576.75,Gold
+CU0206,Kavya Rao,kavyarao@mail.com,8130847576,Female,05/08/1989,Ahmedabad,Gujarat,02/22/2021,827.97,Basic
+CU0607,Sneha Menon,snehamenon@mail.com,9809854155,Male,12/06/1999,Jaipur,Rajasthan,2023/05/12,,gold
+CU0364,Rahul Bhatt,rahulbhatt@mail.com,9885744937,Male,1991-06-22,Kochi,Kerala,2021/02/01,207.81,silver
+CU0573,Sanjay Nair,sanjaynair@mail.com,not_available,Female,1975-06-28,Mumbai,Maharashtra,2021/03/13,1802.0,gold
+CU0183,Sunita Iyer,sunitaiyer@mail.com,not_available,Male,1992/12/24,Bengaluru,Karnataka,12/11/2024,1143.07,Gold
+CU0047,Vikram Verma,vikramverma@mail.com,not_available,Male,06-02-1992,Hyderabad,Telangana,2024-05-02,565.44,Basic
+CU0811,Karan Rao,karanrao@mail.com,8854555519,Male,06-10-1981,Kochi,Kerala,2024/01/24,507.03,Basic
+CU0833,Neha Gupta,nehagupta@mail.com,9960905453,Male,2004-05-01,Kochi,Kerala,2024/04/12,zero,Regular
+CU0235,Rahul Iyer,rahuliyer@mail.com,9632445649,Male,1975/11/06,Jaipur,Rajasthan,2021-08-11,556.31,Regular
+CU0970,Ritu Rao,riturao@mail.com,not_available,Female,05-08-1982,Bengaluru,Karnataka,2024-04-18,1442.49,Regular
+CU0358,Ajay Sharma,ajaysharma@mail.com,9015337791,Female,06/26/1988,Chennai,Tamil Nadu,12/26/2023,,Regular
+CU0321,Aarti Reddy,aartireddy@mail.com,9249727410,Male,1988-03-21,Kochi,Kerala,2021-03-11,1530.87,silver
+CU0997,Vivek Chawla,vivekchawla@mail.com,not_available,Female,23-06-1993,Hyderabad,Telangana,03-02-2022,909.49,silver
+CU0178,Sneha Sharma,snehasharma@mail.com,,Male,1976/01/26,Kolkata,West Bengal,2024/07/23,1073.13,Regular
+CU0712,Pallavi Verma,pallaviverma@mail.com,not_available,Female,1975-01-24,Mumbai,Maharashtra,04/27/2024,850.31,regular
+CU0514,Shreya Pillai,shreyapillai@mail.com,7886823531,Male,2002/04/10,Jaipur,Rajasthan,2023/10/07,14.89,gold
+CU0592,Karan Das,karandas@mail.com,7528605335,Male,01/04/2001,Mumbai,Maharashtra,2024-03-01,,silver
+CU0034,Isha Menon,ishamenon@mail.com,9085816511,Male,1987/06/22,Pune,Maharashtra,18-10-2022,1183.79,regular
+CU0438,Vivek Singh,viveksingh@mail.com,not_available,Female,1987-03-14,Ahmedabad,Gujarat,2023-12-22,817.05,gold
+CU0284,Ritu Iyer,rituiyer@mail.com,9220528056,Female,08/10/2000,Kolkata,West Bengal,2021-07-04,na,silver
+CU0503,Ajay Pandey,ajaypandey@mail.com,8263505268,Male,04/02/1985,Pune,Maharashtra,24-04-2024,1581.99,Regular
+CU0313,Nikhil Pillai,nikhilpillai@mail.com,7579265528,Female,1992/04/16,Ahmedabad,Gujarat,04/03/2022,646.82,Regular
+CU0936,Ritu Sharma,ritusharma@mail.com,not_available,Female,1978/05/08,Jaipur,Rajasthan,2024/10/07,470.22,gold
+CU0788,Divya Reddy,divyareddy@mail.com,,Female,1978/07/01,Bengaluru,Karnataka,2024-08-13,761.01,Basic
+CU0668,Karan Pandey,karanpandey@mail.com,not_available,Male,2002/12/03,Kochi,Kerala,11-03-2021,755.26,regular
+CU0825,Anjali Nair,anjalinair@mail.com,not_available,Male,06/13/1975,Delhi,Delhi,2023-02-06,996.4,Regular
+CU0332,Vivek Pandey,vivekpandey@mail.com,not_available,Male,1976-02-14,Pune,Maharashtra,08/24/2022,186.25,Silver
+CU0714,Nikhil Menon,nikhilmenon@mail.com,8690693165,Female,23-09-1999,Jaipur,Rajasthan,2021-07-25,953.61,Gold
+CU0260,Deepak Chatterjee,deepakchatterjee@mail.com,7157437641,Female,1992-09-16,Kochi,Kerala,15-03-2023,1004.33,regular
+CU0129,Shreya Iyer,shreyaiyer@mail.com,not_available,Female,1978/11/07,Mumbai,Maharashtra,2024-01-15,913.6,Gold
+CU0307,Priya Das,priyadas@mail.com,8513220374,Female,06/28/1992,Hyderabad,Telangana,2024-12-11,427.86,Basic
+CU0686,Sanjay Gupta,sanjaygupta@mail.com,9390614928,Male,19-01-1988,Chennai,Tamil Nadu,2023-02-15,1573.47,Silver
+CU0682,Sanjay Gupta,sanjaygupta@mail.com,not_available,Female,14-11-1980,Chennai,Telangana,10/25/2021,1814.9,Basic
+CU0340,Vikram Pillai,vikrampillai@mail.com,not_available,Male,08/27/1986,Bengaluru,Karnataka,12-02-2022,1826.71,silver
+CU0779,Pallavi Singh,pallavisingh@mail.com,not_available,Male,1980/06/24,Ahmedabad,Gujarat,2021/11/13,1973.86,Regular
+CU0310,Rahul Chatterjee,rahulchatterjee@mail.com,8394541743,Female,27-08-1980,Ahmedabad,Gujarat,2021/12/26,fifty,Basic
+CU0610,Pallavi Patel,pallavipatel@mail.com,9923089394,Male,06/17/1989,Kochi,Kerala,09/15/2024,1982.5,Gold
+CU0814,Ajay Rao,ajayrao@mail.com,not_available,Female,1986/06/26,Kochi,Kerala,01-06-2022,621.06,Regular
+CU0827,Gaurav Kapoor,gauravkapoor@mail.com,8251686384,Male,1986-11-06,Mumbai,Maharashtra,2022/10/11,1095.96,silver
+CU0649,Nisha Chawla,nishachawla@mail.com,9089472890,Female,08/01/1986,Chennai,Tamil Nadu,09-02-2024,820.64,gold
+CU0650,Aarti Iyer,aartiiyer@mail.com,,Female,24-04-1986,Bengaluru,Karnataka,11/04/2024,1357.6,silver
+CU0009,Ajay Malhotra,ajaymalhotra@mail.com,9098545541,Male,06/27/1978,Bengaluru,Karnataka,2021/02/24,1955.97,Regular
+CU0561,Aarti Pillai,aartipillai@mail.com,7875155003,Male,1995-12-09,Kochi,Kerala,2022-07-27,1575.57,silver
+CU0616,Deepak Rao,deepakrao@mail.com,9564647996,Male,1977-12-22,Kochi,Kerala,2023/01/05,998.89,Silver
+CU0278,Meera Chawla,meerachawla@mail.com,,Female,1982/05/03,Kochi,Kerala,08/11/2022,1147.43,gold
+CU0866,Isha Iyer,ishaiyer@mail.com,8603546179,Male,16-10-1986,Delhi,Delhi,04/07/2024,1820.29,Silver
+CU0320,Rohit Verma,rohitverma@mail.com,9911965893,Male,1988-04-19,Hyderabad,Telangana,2023-08-18,277.15,Regular
+CU0979,Isha Iyer,ishaiyer@mail.com,not_available,Male,11/25/1986,Hyderabad,Telangana,2021/03/16,na,Gold
+CU0874,Rohit Kapoor,rohitkapoor@mail.com,8009375725,Male,06/12/1999,Mumbai,Maharashtra,13-08-2021,1283.64,silver
+CU0697,Ajay Chatterjee,ajaychatterjee@mail.com,7359873139,Male,01/19/2003,Jaipur,Rajasthan,03/17/2024,193.8,Silver
+CU0983,Deepak Iyer,deepakiyer@mail.com,not_available,Male,1992-04-26,Bengaluru,Karnataka,18-04-2021,1075.13,Silver
+CU0671,Ritu Malhotra,ritumalhotra@mail.com,9399586659,Male,2000/02/15,Hyderabad,Telangana,03/26/2021,997.42,Gold
+CU0785,Rohit Joshi,rohitjoshi@mail.com,not_available,Female,1989/09/25,Delhi,Delhi,2023/01/20,zero,Silver
+CU0631,Meera Pandey,meerapandey@mail.com,9675382218,Male,1994-07-14,Ahmedabad,Gujarat,06-08-2021,506.13,silver
+CU0021,Shreya Sharma,shreyasharma@mail.com,not_available,Male,01/27/1992,Ahmedabad,Gujarat,03/02/2024,1866.18,Basic
+CU0305,Vivek Chawla,vivekchawla@mail.com,9649708468,Female,24-01-1991,Chennai,Tamil Nadu,04-09-2022,1063.32,gold
+CU0734,Vikram Bhatt,vikrambhatt@mail.com,not_available,Female,10/12/1986,Kolkata,West Bengal,2022/01/27,1137.42,regular
+CU0577,Anjali Malhotra,anjalimalhotra@mail.com,9539168351,Male,1982/02/05,Delhi,Delhi,14-03-2022,181.87,Gold
+CU0291,Meera Malhotra,meeramalhotra@mail.com,8491076495,Female,26-04-1992,Jaipur,Rajasthan,05/05/2024,zero,Silver
+CU0703,Sunita Malhotra,sunitamalhotra@mail.com,not_available,Male,21-11-2005,Bengaluru,Karnataka,2024-04-22,302.87,Basic
+CU0072,Arjun Pandey,arjunpandey@mail.com,not_available,Male,10/21/1983,Hyderabad,Telangana,2023/08/17,1403.56,Basic
+CU0822,Suresh Chawla,sureshchawla@mail.com,7305000198,Male,1991-07-24,Bengaluru,Karnataka,2022/03/01,663.58,Gold
+CU0382,Rohit Reddy,rohitreddy@mail.com,8663571006,Female,1979-08-24,Kochi,Kerala,05-06-2022,119.3,gold
+CU0090,Rohit Pandey,rohitpandey@mail.com,9975749366,Male,1998/08/02,Kochi,Kerala,08/20/2022,1567.6,gold
+CU0730,Gaurav Nair,gauravnair@mail.com,8573059995,Male,2005/11/13,Delhi,Delhi,09-12-2022,89.02,Regular
+CU0268,Karan Das,karandas@mail.com,9071209024,Male,18-10-2003,Hyderabad,Telangana,2023/01/23,1604.6,Basic
+CU0963,Priya Malhotra,priyamalhotra@mail.com,not_available,Female,11/17/1975,Ahmedabad,Gujarat,2022-08-18,zero,Regular
+CU0950,Aarti Das,aartidas@mail.com,not_available,Male,04/13/2002,Pune,Maharashtra,2022/01/22,zero,silver
+CU0582,Amit Das,amitdas@mail.com,,Male,09/23/1988,Kolkata,West Bengal,21-08-2023,135.42,silver
+CU0521,Karan Das,karandas@mail.com,not_available,Male,26-11-2001,Hyderabad,Telangana,20-01-2024,,Basic
+CU0740,Amit Nair,amitnair@mail.com,not_available,Male,1980-04-28,Hyderabad,Telangana,03/22/2022,zero,Silver
+CU0546,Anjali Iyer,anjaliiyer@mail.com,9112946882,Male,2000-12-11,Ahmedabad,Gujarat,2021/11/11,1485.94,regular
+CU0501,Neha Nair,nehanair@mail.com,7090167505,Male,26-11-1987,Kochi,Kerala,08/08/2023,1321.82,Regular
+CU0894,Rahul Das,rahuldas@mail.com,9521681465,Female,16-11-2005,Hyderabad,West Bengal,09-08-2021,1448.56,regular
+CU0657,Meera Bhatt,meerabhatt@mail.com,not_available,Male,2005-07-03,Ahmedabad,Gujarat,10/17/2022,1086.54,Regular
+CU0410,Isha Menon,ishamenon@mail.com,9483065233,Male,1991-04-23,Chennai,Tamil Nadu,2021-12-04,1702.59,silver
+CU0172,Amit Iyer,amitiyer@mail.com,8176904638,Male,09-06-1995,Kochi,Kerala,01/13/2022,1510.46,silver
+CU0415,Vikram Rao,vikramrao@mail.com,8737072018,Female,1991/05/05,Mumbai,Maharashtra,2024-08-08,fifty,Basic
+CU0889,Nisha Nair,nishanair@mail.com,7883959179,Female,04-07-1977,Kolkata,West Bengal,2021-05-18,1368.02,Basic
+CU0795,Sanjay Pillai,sanjaypillai@mail.com,7577266783,Male,08/16/1984,Pune,Maharashtra,22-10-2023,1497.44,Basic
+CU0348,Isha Chatterjee,ishachatterjee@mail.com,not_available,Male,26-12-1987,Kochi,Kerala,2021/05/18,826.88,Regular
+CU0202,Gaurav Pillai,gauravpillai@mail.com,9345155074,Female,1978-08-26,Pune,Maharashtra,05/01/2021,209.45,Silver
+CU0525,Suresh Das,sureshdas@mail.com,9444717125,Male,02/20/1983,Hyderabad,Telangana,06/06/2022,1332.74,Gold
+CU0562,Neha Pandey,nehapandey@mail.com,not_available,Female,1978/09/04,Mumbai,Maharashtra,06/11/2021,1596.19,Silver
+CU0945,Gaurav Joshi,gauravjoshi@mail.com,not_available,Male,1982/09/20,Chennai,Tamil Nadu,02-07-2022,1422.73,Basic
+CU0669,Deepak Das,deepakdas@mail.com,not_available,Female,08/22/1990,Bengaluru,Karnataka,2022-07-27,48.49,regular
+CU0738,Vikram Chawla,vikramchawla@mail.com,8722939481,Female,25-04-1976,Hyderabad,Telangana,13-10-2023,332.77,Silver
+CU0323,Ajay Kulkarni,ajaykulkarni@mail.com,not_available,Female,1997-11-12,Hyderabad,Telangana,2022-03-07,fifty,Silver
+CU0115,Swati Joshi,swatijoshi@mail.com,7619623590,Male,13-09-1994,Delhi,Telangana,2024-09-15,1031.01,Silver
+CU0093,Vivek Bhatt,vivekbhatt@mail.com,8781968664,Male,1987-09-12,Hyderabad,Telangana,04/01/2023,1678.35,regular
+CU0478,Sanjay Verma,sanjayverma@mail.com,8725708681,Male,1990/01/11,Pune,Maharashtra,09-07-2023,198.67,gold
+CU0338,Sanjay Pillai,sanjaypillai@mail.com,9237992459,Female,12/22/1993,Kolkata,West Bengal,10/22/2022,1776.06,Silver
+CU0926,Arjun Kulkarni,arjunkulkarni@mail.com,not_available,Male,1981-07-25,Jaipur,Rajasthan,11/26/2022,284.63,gold
+CU0074,Aarti Kulkarni,aartikulkarni@mail.com,not_available,Male,07/04/1977,Pune,Maharashtra,2023/11/04,1330.68,Basic
+CU0491,Meera Verma,meeraverma@mail.com,8414009054,Female,21-11-1977,Delhi,Delhi,10/26/2021,494.31,silver
+CU0193,Vikram Bhatt,vikrambhatt@mail.com,,Male,1995/05/16,Kolkata,West Bengal,2021-05-13,1285.31,Basic
+CU0745,Neha Nair,nehanair@mail.com,not_available,Female,1996/08/01,Hyderabad,Telangana,05/14/2021,231.92,Basic
+CU0700,Anjali Reddy,anjalireddy@mail.com,7725215637,Male,1994-01-18,Delhi,Delhi,06/07/2021,1142.33,regular
+CU0820,Neha Das,nehadas@mail.com,8492943944,Female,05-12-2002,Kochi,Kerala,09-10-2023,981.62,regular
+CU0885,Neha Chatterjee,nehachatterjee@mail.com,8206125253,Female,08/07/1998,Delhi,Delhi,2022/04/23,1991.67,Gold
+CU0528,Vivek Patel,vivekpatel@mail.com,8422794986,Female,18-04-1982,Bengaluru,Karnataka,2022/10/28,367.09,regular
+CU0974,Karan Joshi,karanjoshi@mail.com,9287009909,Female,14-04-1990,Mumbai,Maharashtra,14-04-2022,824.72,regular
+CU0757,Priya Nair,priyanair@mail.com,8722782281,Female,04/14/1986,Kochi,Kerala,11/22/2021,1065.02,gold
+CU0918,Suresh Verma,sureshverma@mail.com,8670183395,Female,1986/07/01,Hyderabad,Telangana,02/14/2024,538.24,Silver
+CU0481,Ritu Sharma,ritusharma@mail.com,7079984471,Female,22-10-1992,Bengaluru,Karnataka,2022/05/19,1692.56,Regular
+CU0865,Suresh Kulkarni,sureshkulkarni@mail.com,9228068818,Female,2000/04/14,Delhi,Delhi,06/21/2022,857.99,Gold
+CU0962,Kavya Rao,kavyarao@mail.com,9537697958,Male,1977-06-06,Ahmedabad,Gujarat,26-11-2021,1457.5,gold
+CU0777,Ritu Patel,ritupatel@mail.com,8520133112,Female,1989/05/14,Hyderabad,Rajasthan,2021-07-12,1534.1,Gold
+CU0806,Anjali Das,anjalidas@mail.com,7302377420,Female,2003/05/02,Chennai,Tamil Nadu,2024-07-19,1382.87,Basic
+CU0982,Ajay Sharma,ajaysharma@mail.com,not_available,Female,15-09-1987,Ahmedabad,Gujarat,08-01-2022,789.21,regular
+CU0359,Priya Chatterjee,priyachatterjee@mail.com,not_available,Female,20-12-2000,Chennai,Tamil Nadu,09/03/2022,1231.6,Silver
+CU0245,Nikhil Patel,nikhilpatel@mail.com,,Female,07/26/1987,Kolkata,West Bengal,2023/04/20,1822.97,regular
+CU0233,Aarti Bhatt,aartibhatt@mail.com,not_available,Female,20-06-1999,Pune,Maharashtra,2024/02/14,na,regular
+CU0061,Suresh Singh,sureshsingh@mail.com,8652244897,Female,04/13/1978,Ahmedabad,Gujarat,2023/01/27,1131.86,regular
+CU0493,Sneha Iyer,snehaiyer@mail.com,not_available,Female,1976/05/20,Mumbai,Maharashtra,09/02/2021,803.37,Regular
+CU0644,Anjali Gupta,anjaligupta@mail.com,8815003262,Male,1984-04-13,Ahmedabad,Gujarat,14-09-2024,1292.69,Gold
+CU0220,Vikram Das,vikramdas@mail.com,9919342370,Female,02/08/1995,Bengaluru,Karnataka,07/26/2023,1171.14,silver
+CU0581,Rahul Verma,rahulverma@mail.com,9584862196,Male,1976-10-21,Bengaluru,Karnataka,02/18/2021,948.4,Basic
+CU0369,Rohit Joshi,rohitjoshi@mail.com,9213553149,Female,13-07-1990,Kolkata,West Bengal,2024/12/27,1070.61,Silver
+CU0451,Sunita Gupta,sunitagupta@mail.com,8773904836,Male,11/24/1989,Kochi,Kerala,01-09-2021,925.76,Basic
+CU0855,Swati Iyer,swatiiyer@mail.com,7319608411,Male,1986-02-05,Mumbai,Maharashtra,12/01/2021,1234.92,gold
+CU0360,Pallavi Singh,pallavisingh@mail.com,not_available,Male,1994-03-19,Jaipur,Rajasthan,2022-05-26,1598.74,Basic
+CU0403,Nikhil Chatterjee,nikhilchatterjee@mail.com,not_available,Female,1980-10-02,Kochi,Kerala,06-06-2022,839.03,Silver
+CU0253,Manoj Rao,manojrao@mail.com,,Male,21-01-1992,Ahmedabad,Maharashtra,09/04/2023,602.7,Gold
+CU0012,Arjun Verma,arjunverma@mail.com,9084839399,Male,1992/03/24,Bengaluru,Karnataka,04-04-2024,708.6,silver
+CU0379,Vikram Gupta,vikramgupta@mail.com,not_available,Male,1996-08-16,Pune,Maharashtra,01/21/2021,869.34,Silver
+CU0231,Pallavi Patel,pallavipatel@mail.com,8829635479,Male,1978-01-01,Pune,Maharashtra,09-10-2024,685.45,Gold
+CU0635,Anjali Kapoor,anjalikapoor@mail.com,9539060531,Female,10/01/1982,Delhi,Delhi,2021-08-10,805.62,Regular
+CU0480,Meera Joshi,meerajoshi@mail.com,not_available,Male,1976-04-08,Jaipur,Rajasthan,09-02-2024,1106.24,Gold
+CU0118,Deepak Kapoor,deepakkapoor@mail.com,not_available,Female,1985/07/05,Bengaluru,Karnataka,24-12-2024,1037.37,Regular
+CU0174,Suresh Iyer,sureshiyer@mail.com,7383674057,Male,06/12/1978,Pune,Maharashtra,2022-11-22,fifty,Regular
+CU0015,Sunita Bhatt,sunitabhatt@mail.com,not_available,Female,1979-04-10,Delhi,Delhi,11-12-2021,,Regular
+CU0517,Gaurav Nair,gauravnair@mail.com,not_available,Female,1996-02-23,Jaipur,Rajasthan,03-06-2021,1559.02,silver
+CU0164,Kavya Sharma,kavyasharma@mail.com,8649027664,Female,1988/11/16,Jaipur,Rajasthan,2021-10-01,549.71,Regular
+CU0924,Manoj Pandey,manojpandey@mail.com,8621028466,Male,1975/05/15,Hyderabad,Telangana,09/15/2024,1154.94,Basic
+CU0663,Anjali Chatterjee,anjalichatterjee@mail.com,8680144901,Female,1997/02/15,Hyderabad,Telangana,2023/08/04,na,Gold
+CU0914,Isha Singh,ishasingh@mail.com,8057390673,Female,1982-04-15,Pune,Maharashtra,2023-02-01,870.39,Basic
+CU0264,Priya Nair,priyanair@mail.com,7508224423,Male,24-06-1988,Jaipur,Rajasthan,2024-04-19,821.8,gold
+CU0881,Isha Nair,ishanair@mail.com,9562980413,Female,2000-11-28,Mumbai,Maharashtra,20-01-2021,1893.57,Gold
+CU0059,Karan Joshi,karanjoshi@mail.com,8609930218,Female,1979/04/17,Ahmedabad,Gujarat,06-03-2022,765.09,regular
+CU0449,Deepak Pandey,deepakpandey@mail.com,8581561716,Male,14-11-1988,Delhi,Delhi,2024-11-08,1054.56,regular
+CU0767,Pooja Iyer,poojaiyer@mail.com,9184384110,Female,10/06/1990,Pune,Maharashtra,2023/09/12,970.49,gold
+CU0611,Isha Gupta,ishagupta@mail.com,9408619421,Male,1979/02/10,Pune,Maharashtra,2021/04/13,697.88,silver
+CU0599,Suresh Iyer,sureshiyer@mail.com,,Female,23-01-1986,Ahmedabad,Gujarat,01/05/2022,490.09,Gold
+CU0448,Rohit Kapoor,rohitkapoor@mail.com,not_available,Female,1998-05-22,Kochi,Kerala,2023/09/07,776.18,Silver
+CU0883,Gaurav Kapoor,gauravkapoor@mail.com,not_available,Female,04-04-1989,Jaipur,Rajasthan,2021-02-24,1772.88,regular
+CU0487,Pooja Menon,poojamenon@mail.com,not_available,Female,06/02/2005,Jaipur,Rajasthan,2022/01/07,554.7,Regular
+CU0444,Shreya Kulkarni,shreyakulkarni@mail.com,7635885849,Male,02/07/1986,Pune,Maharashtra,2023-10-22,1943.25,Regular
+CU0219,Nisha Gupta,nishagupta@mail.com,7815679418,Female,1998/12/08,Kochi,Kerala,2022-11-18,941.56,regular
+CU0999,Karan Verma,karanverma@mail.com,9627983825,Female,13-06-1999,Jaipur,Rajasthan,24-09-2024,zero,gold
+CU0647,Priya Joshi,priyajoshi@mail.com,7054695674,Female,1988-06-01,Chennai,Tamil Nadu,25-11-2022,1939.08,Regular
+CU0551,Suresh Gupta,sureshgupta@mail.com,9093816518,Female,1984-11-28,Delhi,Delhi,2023/07/22,1515.43,silver
+CU0311,Arjun Chawla,arjunchawla@mail.com,7517717617,Male,28-11-1998,Hyderabad,Telangana,2021-06-18,1395.54,gold
+CU0992,Amit Rao,amitrao@mail.com,9782033128,Male,1987-05-08,Mumbai,Maharashtra,10/22/2024,1043.45,regular
+CU0880,Vivek Patel,vivekpatel@mail.com,9689154777,Male,07-05-1993,Chennai,Maharashtra,2023/04/16,915.77,silver
+CU0402,Manoj Menon,manojmenon@mail.com,not_available,Female,02/20/1990,Ahmedabad,Gujarat,2024/05/21,1636.56,Silver
+CU0492,Divya Joshi,divyajoshi@mail.com,9231987320,Male,2005/02/25,Mumbai,Maharashtra,02-02-2021,1780.17,regular
+CU0425,Nisha Bhatt,nishabhatt@mail.com,not_available,Female,24-10-2004,Kolkata,West Bengal,2024-03-08,1531.06,Basic
+CU0377,Gaurav Patel,gauravpatel@mail.com,9044457991,Male,03/21/1981,Kolkata,West Bengal,20-03-2022,1434.4,Regular
+CU0984,Vikram Joshi,vikramjoshi@mail.com,7189058283,Female,1990-04-05,Mumbai,Maharashtra,14-02-2024,643.68,gold
+CU0280,Karan Kulkarni,karankulkarni@mail.com,9467541927,Female,03/25/1990,Hyderabad,Telangana,2022/01/17,1081.54,Regular
+CU0271,Kavya Pandey,kavyapandey@mail.com,not_available,Female,1999/04/14,Pune,Maharashtra,05/10/2024,796.26,gold
+CU0502,Swati Pandey,swatipandey@mail.com,7280794323,Male,1979-03-26,Bengaluru,Karnataka,2023/06/20,489.1,Gold
+CU0215,Vivek Singh,viveksingh@mail.com,8224363672,Male,1987-01-06,Bengaluru,Karnataka,2022/05/21,1729.26,Basic
+CU0477,Shreya Chatterjee,shreyachatterjee@mail.com,9240915480,Male,17-08-1999,Mumbai,Maharashtra,2022-01-09,1411.24,Regular
+CU0266,Pooja Verma,poojaverma@mail.com,not_available,Female,2002-08-06,Hyderabad,Telangana,10/22/2022,1371.18,silver
+CU0598,Amit Sharma,amitsharma@mail.com,7573776170,Male,1976-06-12,Chennai,Tamil Nadu,2024-04-07,zero,Gold
+CU0100,Ritu Kulkarni,ritukulkarni@mail.com,8145556651,Male,1998/07/03,Ahmedabad,Gujarat,09/10/2022,655.84,Silver
+CU0571,Sanjay Joshi,sanjayjoshi@mail.com,not_available,Male,1975-06-24,Hyderabad,Telangana,2021-07-16,1028.64,gold
+CU0053,Gaurav Kulkarni,gauravkulkarni@mail.com,not_available,Male,10-03-1997,Kolkata,West Bengal,15-02-2022,307.94,regular
+CU0094,Arjun Iyer,arjuniyer@mail.com,not_available,Female,2004-08-23,Jaipur,Rajasthan,02/01/2021,299.04,regular
+CU0424,Nikhil Patel,nikhilpatel@mail.com,7859324105,Female,1987/05/20,Kolkata,West Bengal,2021-11-23,425.91,Basic
+CU0275,Ajay Rao,ajayrao@mail.com,9517195150,Male,24-01-1991,Mumbai,Maharashtra,06/27/2023,1926.11,silver
+CU0654,Nikhil Das,nikhildas@mail.com,not_available,Male,1997-05-05,Hyderabad,Telangana,08-05-2021,709.26,Basic
+CU0421,Neha Das,nehadas@mail.com,not_available,Female,1996/07/19,Chennai,West Bengal,2021/06/13,195.45,silver
+CU0458,Meera Kulkarni,meerakulkarni@mail.com,not_available,Female,14-12-1989,Pune,Maharashtra,2022/08/12,439.4,regular
+CU0252,Aarti Iyer,aartiiyer@mail.com,not_available,Female,03-02-1976,Pune,Maharashtra,2021-10-27,815.27,silver
+CU0450,Nikhil Verma,nikhilverma@mail.com,not_available,Female,1977-08-10,Pune,Maharashtra,2023/04/17,95.46,Gold
+CU0848,Pooja Verma,poojaverma@mail.com,9505892306,Female,1990-06-23,Chennai,Tamil Nadu,2022/03/06,1820.46,silver
+CU0328,Swati Nair,swatinair@mail.com,7490334658,Female,1995/06/03,Kolkata,West Bengal,2022/07/18,zero,Silver
+CU0843,Pooja Iyer,poojaiyer@mail.com,not_available,Female,1997-09-28,Hyderabad,Telangana,2023/04/13,921.16,silver
+CU0427,Neha Menon,nehamenon@mail.com,9084701332,Female,1988-11-02,Pune,Maharashtra,05/26/2021,351.97,Basic
+CU0008,Ajay Singh,ajaysingh@mail.com,8260573448,Female,08/01/1980,Kolkata,West Bengal,2021-11-10,1525.02,Regular
+CU0039,Arjun Sharma,arjunsharma@mail.com,7453285987,Female,2005/06/21,Pune,Maharashtra,2023/10/26,1651.47,Regular
+CU0790,Ritu Singh,ritusingh@mail.com,7069344242,Male,13-07-1987,Kochi,Kerala,02/14/2023,1402.43,regular
+CU0743,Ajay Rao,ajayrao@mail.com,7593048643,Female,01/07/1981,Hyderabad,Telangana,2024/11/06,622.18,regular
+CU0088,Suresh Rao,sureshrao@mail.com,not_available,Male,09/13/1984,Pune,Maharashtra,2021/11/22,36.46,Silver
+CU0263,Manoj Verma,manojverma@mail.com,7957345013,Female,1986/06/16,Ahmedabad,Maharashtra,08-03-2024,561.62,gold
+CU0342,Suresh Malhotra,sureshmalhotra@mail.com,not_available,Female,22-01-2004,Kochi,Kerala,02/17/2021,na,regular
+CU0256,Nikhil Iyer,nikhiliyer@mail.com,not_available,Male,07-05-1994,Pune,Maharashtra,15-09-2021,134.73,Gold
+CU0942,Anjali Bhatt,anjalibhatt@mail.com,not_available,Male,06/23/1984,Ahmedabad,Gujarat,14-07-2024,1336.54,regular
+CU0837,Amit Iyer,amitiyer@mail.com,,Female,08-02-1978,Hyderabad,Telangana,04/14/2021,285.52,Regular
+CU0873,Vivek Rao,vivekrao@mail.com,9775958983,Female,11-03-1987,Chennai,Tamil Nadu,2021-09-02,1853.9,gold
+CU0817,Pooja Menon,poojamenon@mail.com,9075642946,Female,1988-09-18,Hyderabad,Telangana,2024/11/19,1413.49,Silver
+CU0930,Karan Malhotra,karanmalhotra@mail.com,9093868830,Female,02-09-1999,Pune,Maharashtra,2024/06/22,1270.41,gold
+CU0475,Sanjay Joshi,sanjayjoshi@mail.com,9601503399,Male,1999/03/17,Jaipur,Rajasthan,11-12-2022,1329.0,silver
+CU0763,Nisha Gupta,nishagupta@mail.com,9197132176,Female,1988-02-04,Chennai,Tamil Nadu,12/06/2021,679.67,gold
+CU0482,Amit Iyer,amitiyer@mail.com,8052960554,Female,15-09-2005,Delhi,Delhi,06-11-2023,,Silver
+CU0746,Swati Bhatt,swatibhatt@mail.com,8439086806,Female,1978/03/14,Mumbai,Maharashtra,12/19/2023,1625.67,regular
+CU0557,Swati Malhotra,swatimalhotra@mail.com,9511359882,Male,22-04-1999,Pune,Maharashtra,2022/01/18,246.09,gold
+CU0257,Amit Chatterjee,amitchatterjee@mail.com,7550679848,Male,20-05-1978,Bengaluru,Karnataka,06/20/2024,304.79,Regular
+CU0559,Gaurav Patel,gauravpatel@mail.com,9478503075,Female,06/17/1997,Ahmedabad,Gujarat,04-12-2022,376.15,Silver
+CU0836,Nisha Singh,nishasingh@mail.com,9985084866,Female,09/10/1984,Ahmedabad,Gujarat,2021-07-27,1109.5,silver
+CU0243,Suresh Kapoor,sureshkapoor@mail.com,9503133882,Female,12/27/1996,Hyderabad,Telangana,2021-01-13,fifty,gold
+CU0840,Karan Kapoor,karankapoor@mail.com,9294688377,Male,12/06/1994,Kochi,Maharashtra,13-01-2022,1627.41,Basic
+CU0718,Amit Bhatt,amitbhatt@mail.com,8821848768,Female,1980/11/26,Pune,Maharashtra,07/01/2024,1991.49,regular
+CU0283,Priya Chatterjee,priyachatterjee@mail.com,not_available,Male,02/24/2001,Bengaluru,Karnataka,2024-04-05,19.48,silver
+CU0442,Rohit Kulkarni,rohitkulkarni@mail.com,8548731742,Female,05/20/1984,Kolkata,West Bengal,2022/06/24,302.53,Basic
+CU0097,Rahul Chawla,rahulchawla@mail.com,not_available,Male,1986-02-12,Mumbai,Maharashtra,03/02/2023,1627.02,gold
+CU0045,Ritu Kulkarni,ritukulkarni@mail.com,7220661337,Female,04-08-2005,Hyderabad,Telangana,03/05/2021,496.38,Regular
+CU0523,Anjali Joshi,anjalijoshi@mail.com,not_available,Male,1994/04/18,Hyderabad,Telangana,02/12/2022,804.28,Silver
+CU0760,Sneha Chawla,snehachawla@mail.com,not_available,Female,1992-09-28,Pune,Maharashtra,2022-03-16,585.96,Gold
+CU0406,Vivek Reddy,vivekreddy@mail.com,9962036342,Male,03-08-1988,Pune,Maharashtra,06/10/2024,883.88,Regular
+CU0759,Manoj Pillai,manojpillai@mail.com,9733389690,Male,05-04-1994,Ahmedabad,Gujarat,2024-01-11,1250.99,regular
+CU0747,Pallavi Bhatt,pallavibhatt@mail.com,7171130607,Male,08/15/2002,Delhi,Delhi,05/14/2023,1533.67,Gold
+CU0331,Isha Sharma,ishasharma@mail.com,not_available,Female,1994-11-18,Delhi,Delhi,12-11-2021,64.86,Regular
+CU0173,Manoj Verma,manojverma@mail.com,,Female,1977-03-19,Kolkata,West Bengal,01/23/2021,1976.31,silver
+CU0051,Ritu Chawla,rituchawla@mail.com,7449253056,Male,1985/07/23,Chennai,Tamil Nadu,2024/09/02,504.8,Gold
+CU0872,Arjun Kapoor,arjunkapoor@mail.com,7849461581,Female,1984-03-19,Kochi,Kerala,01/28/2021,737.64,Silver
+CU0315,Divya Reddy,divyareddy@mail.com,7368570209,Male,1998-01-08,Chennai,Maharashtra,16-08-2023,1480.03,gold
+CU0860,Isha Pillai,ishapillai@mail.com,not_available,Female,22-12-1975,Kochi,Kerala,22-12-2023,1454.3,Silver
+CU0643,Vikram Sharma,vikramsharma@mail.com,8511643051,Female,09/03/1978,Hyderabad,Telangana,09/14/2024,na,Silver
+CU0861,Sanjay Chawla,sanjaychawla@mail.com,9146173400,Female,1999-08-11,Bengaluru,Karnataka,2021/12/12,923.28,Basic
+CU0898,Divya Joshi,divyajoshi@mail.com,9118926603,Male,26-08-1997,Mumbai,Maharashtra,20-12-2022,733.35,regular
+CU0728,Suresh Singh,sureshsingh@mail.com,not_available,Male,1993/01/28,Ahmedabad,Gujarat,16-03-2024,fifty,Regular
+CU0125,Nisha Bhatt,nishabhatt@mail.com,7060491148,Female,2000-05-19,Pune,Maharashtra,07/17/2024,1338.51,gold
+CU0386,Rohit Chawla,rohitchawla@mail.com,not_available,Male,08/22/1975,Pune,Maharashtra,2021-08-15,810.72,Basic
+CU0567,Nisha Menon,nishamenon@mail.com,7246580623,Male,1998/05/18,Delhi,Delhi,2024-11-17,1030.02,regular
+CU0609,Sneha Singh,snehasingh@mail.com,7305517870,Male,1997/08/09,Chennai,Tamil Nadu,05-11-2024,976.52,Silver
+CU0694,Meera Malhotra,meeramalhotra@mail.com,9717124135,Male,15-03-2003,Pune,Maharashtra,2023/09/23,252.8,Gold
+CU0959,Sneha Kulkarni,snehakulkarni@mail.com,not_available,Female,01/01/1988,Kochi,Kerala,17-03-2021,190.31,Silver
+CU0326,Nikhil Gupta,nikhilgupta@mail.com,not_available,Female,05/25/1987,Jaipur,Rajasthan,2023-10-02,1292.2,Gold
+CU0526,Arjun Sharma,arjunsharma@mail.com,8642272651,Male,23-10-1991,Bengaluru,Maharashtra,2023/04/24,1239.53,Gold
+CU0856,Deepak Bhatt,deepakbhatt@mail.com,9855887294,Male,1994-02-02,Bengaluru,Karnataka,03-03-2021,zero,gold
+CU0433,Swati Gupta,swatigupta@mail.com,not_available,Male,2001/08/16,Kochi,Kerala,03/23/2021,703.71,Regular
+CU0225,Pooja Bhatt,poojabhatt@mail.com,8450990916,Female,11/05/2003,Jaipur,Rajasthan,2022/03/26,zero,regular
+CU0116,Sunita Pandey,sunitapandey@mail.com,not_available,Female,12/27/1994,Ahmedabad,Gujarat,12/19/2024,33.27,Silver
+CU0389,Arjun Menon,arjunmenon@mail.com,9491593775,Male,1999-12-25,Kochi,Kerala,2023/09/22,126.74,Silver
+CU0001,Manoj Kapoor,manojkapoor@mail.com,not_available,Female,05-04-1982,Kolkata,West Bengal,01-01-2024,1010.71,Gold
+CU0168,Deepak Singh,deepaksingh@mail.com,9917568337,Male,07/02/1979,Pune,Maharashtra,04/05/2022,1522.95,regular
+CU0081,Meera Chatterjee,meerachatterjee@mail.com,8243458354,Male,1987-01-11,Ahmedabad,Gujarat,14-02-2023,1177.74,Regular
+CU0839,Rahul Iyer,rahuliyer@mail.com,7967379525,Male,1995/04/11,Delhi,Delhi,04/20/2021,286.73,Silver
+CU0659,Arjun Pandey,arjunpandey@mail.com,not_available,Female,08/23/1993,Delhi,Delhi,2021-12-07,1934.56,gold
+CU0210,Deepak Chatterjee,deepakchatterjee@mail.com,7453698094,Male,05/28/2000,Hyderabad,Telangana,2024/10/20,na,silver
+CU0011,Manoj Chawla,manojchawla@mail.com,7519709079,Male,11-02-1982,Ahmedabad,Gujarat,03-01-2022,1810.84,Basic
+CU0476,Rahul Menon,rahulmenon@mail.com,7196794154,Female,21-05-1998,Pune,Maharashtra,21-09-2023,170.3,Regular
+CU0082,Sneha Rao,sneharao@mail.com,7951644750,Female,03-03-1999,Kolkata,West Bengal,2023-06-24,292.89,gold
+CU0701,Sanjay Malhotra,sanjaymalhotra@mail.com,not_available,Female,23-02-1984,Jaipur,Rajasthan,2024-05-03,1463.27,Gold
+CU0479,Pooja Iyer,poojaiyer@mail.com,not_available,Male,1979-05-14,Delhi,Delhi,01-03-2023,197.49,gold
+CU0886,Pallavi Chatterjee,pallavichatterjee@mail.com,9098210172,Male,12/02/1997,Kochi,Kerala,2023/08/27,746.53,Silver
+CU0411,Kavya Chatterjee,kavyachatterjee@mail.com,not_available,Male,1980/06/13,Bengaluru,Karnataka,02/25/2024,220.63,gold
+CU0354,Rahul Pillai,rahulpillai@mail.com,9039557201,Male,09/13/1981,Hyderabad,Telangana,01-03-2022,287.99,silver
+CU0912,Rohit Kapoor,rohitkapoor@mail.com,7880007635,Male,19-11-2003,Delhi,Delhi,2023-05-14,1236.62,Regular
+CU0176,Arjun Iyer,arjuniyer@mail.com,not_available,Male,09/20/1982,Delhi,Delhi,2023-04-17,591.08,Gold
+CU0367,Arjun Gupta,arjungupta@mail.com,not_available,Female,1980/08/03,Bengaluru,Karnataka,16-11-2022,1537.41,gold
+CU0697,Ajay Chatterjee,ajaychatterjee@mail.com,7359873139,Male,01/19/2003,Jaipur,Rajasthan,03/17/2024,193.8,Silver
+CU0136,Manoj Rao,manojrao@mail.com,8788100692,Female,1979-05-13,Kolkata,West Bengal,2022-05-28,1829.48,Regular
+CU0899,Meera Sharma,meerasharma@mail.com,8581786202,Male,08/02/1988,Hyderabad,Telangana,03-02-2024,1897.32,Silver
+CU0238,Shreya Pandey,shreyapandey@mail.com,8560338203,Female,1978-02-25,Delhi,Delhi,09/17/2023,91.56,gold
+CU0624,Manoj Chatterjee,manojchatterjee@mail.com,9694311907,Female,09/06/2001,Bengaluru,Karnataka,2021-07-01,fifty,Regular
+CU0208,Deepak Malhotra,deepakmalhotra@mail.com,9664052763,Male,1978-08-06,Bengaluru,Karnataka,14-01-2022,870.79,Basic
+CU0204,Amit Pillai,amitpillai@mail.com,9319821061,Female,1996-05-10,Mumbai,Gujarat,12-01-2022,589.1,regular
+CU0953,Ajay Das,ajaydas@mail.com,9869031169,Female,12-02-2000,Kochi,Kerala,09-09-2022,1240.68,Basic
+CU0676,Isha Rao,isharao@mail.com,9372952079,Female,1976/07/25,Pune,Maharashtra,05-09-2024,1794.29,Silver
+CU0585,Priya Menon,priyamenon@mail.com,not_available,Male,1984-01-21,Chennai,Tamil Nadu,2023-01-21,419.94,Gold
+CU0547,Rahul Das,rahuldas@mail.com,8002305548,Male,10-02-1983,Mumbai,Maharashtra,12/04/2022,626.74,silver
+CU0537,Sneha Kapoor,snehakapoor@mail.com,8479155865,Male,1983/12/07,Chennai,Maharashtra,04-01-2024,835.68,silver
+CU0995,Amit Sharma,amitsharma@mail.com,8321688028,Female,05/28/2000,Kolkata,West Bengal,24-04-2021,1112.18,Regular
+CU0750,Karan Iyer,karaniyer@mail.com,7434318782,Female,12/03/1991,Chennai,Tamil Nadu,03/24/2021,1485.37,Gold
+CU0270,Swati Sharma,swatisharma@mail.com,7030898225,Female,04/23/1995,Hyderabad,Telangana,07/21/2022,1072.21,Regular
+CU0069,Amit Verma,amitverma@mail.com,9518496186,Male,2001-04-11,Ahmedabad,Maharashtra,2022-09-09,1732.9,gold
+CU0774,Aarti Das,aartidas@mail.com,7478760249,Male,1990/01/11,Jaipur,Rajasthan,07/22/2021,1724.06,Silver
+CU0165,Pooja Nair,poojanair@mail.com,9127354612,Male,02/09/1993,Kolkata,West Bengal,2021-12-15,204.83,Basic
+CU0831,Pooja Chatterjee,poojachatterjee@mail.com,7744570204,Female,18-01-1998,Delhi,Delhi,12-04-2024,1368.33,silver
+CU0789,Anjali Verma,anjaliverma@mail.com,9483794765,Male,1980/04/04,Ahmedabad,Gujarat,2023-07-07,1599.58,Silver
+CU0486,Rahul Pandey,rahulpandey@mail.com,9993721603,Male,1978-08-12,Jaipur,Delhi,11/23/2023,1632.56,regular
+CU0504,Sneha Nair,snehanair@mail.com,9770561251,Female,1990-09-15,Kochi,Kerala,2024/12/16,801.89,Basic
+CU0966,Nisha Verma,nishaverma@mail.com,7936885578,Female,19-02-2005,Bengaluru,Karnataka,07/04/2021,288.77,regular
+CU0569,Sunita Malhotra,sunitamalhotra@mail.com,8576471745,Male,1991/06/02,Jaipur,Rajasthan,2023-02-11,1701.55,Basic
+CU0020,Arjun Reddy,arjunreddy@mail.com,9170715377,Female,1983/01/03,Chennai,Telangana,2022-11-09,1103.36,silver
+CU0690,Neha Nair,nehanair@mail.com,7644516752,Male,10/07/1978,Kolkata,West Bengal,13-04-2023,300.15,Basic
+CU0141,Ritu Das,ritudas@mail.com,8105209993,Female,2005/12/21,Jaipur,Rajasthan,2023/03/05,1778.73,regular
+CU0964,Aarti Rao,aartirao@mail.com,not_available,Female,1986/03/13,Ahmedabad,Gujarat,28-10-2022,510.0,Regular
+CU0727,Sanjay Chawla,sanjaychawla@mail.com,,Female,02/12/1985,Kolkata,West Bengal,01/21/2023,796.59,regular
+CU0863,Vivek Nair,viveknair@mail.com,not_available,Male,1981/02/01,Jaipur,Rajasthan,2023/04/01,607.04,Basic
+CU0144,Sunita Kapoor,sunitakapoor@mail.com,9661938440,Female,2001/06/09,Mumbai,Maharashtra,2024-08-19,451.71,regular
+CU0460,Sneha Kulkarni,snehakulkarni@mail.com,not_available,Male,16-10-1980,Hyderabad,Telangana,2024-05-08,1998.52,Silver
+CU0904,Rahul Sharma,rahulsharma@mail.com,not_available,Female,1987-08-20,Pune,Maharashtra,2024-11-28,1042.52,silver
+CU0167,Priya Pandey,priyapandey@mail.com,not_available,Male,26-04-2001,Ahmedabad,Gujarat,2023-10-18,1408.11,Silver
+CU0651,Gaurav Malhotra,gauravmalhotra@mail.com,not_available,Female,2003/06/13,Chennai,Tamil Nadu,10/17/2021,245.92,Basic
+CU0289,Neha Rao,neharao@mail.com,7446369090,Female,1994/03/03,Chennai,Tamil Nadu,2023-08-21,1677.04,Gold
+CU0618,Rahul Reddy,rahulreddy@mail.com,not_available,Male,10/01/1996,Kochi,Tamil Nadu,2021/12/16,703.46,Basic
+CU0452,Priya Rao,priyarao@mail.com,not_available,Female,12/10/2003,Ahmedabad,Gujarat,10/26/2024,1836.22,Basic
+CU0508,Amit Joshi,amitjoshi@mail.com,not_available,Female,1981-12-20,Kolkata,West Bengal,05/10/2021,807.62,silver
+CU0719,Sunita Singh,sunitasingh@mail.com,8596146466,Male,1979-05-17,Ahmedabad,Gujarat,09/20/2023,421.23,Silver
+CU0277,Ritu Menon,ritumenon@mail.com,8970738992,Female,28-10-2003,Jaipur,Rajasthan,2021-07-21,459.86,Silver
+CU0287,Pallavi Verma,pallaviverma@mail.com,not_available,Female,06/11/1982,Chennai,Tamil Nadu,05/15/2024,1041.87,silver
+CU0731,Amit Malhotra,amitmalhotra@mail.com,7013848609,Female,12-09-1983,Kochi,Kerala,15-10-2021,181.12,regular
+CU0829,Vivek Chatterjee,vivekchatterjee@mail.com,not_available,Male,1996/11/11,Kolkata,West Bengal,2023/06/05,585.92,regular
+CU0052,Ajay Rao,ajayrao@mail.com,7004943787,Female,01/07/1988,Ahmedabad,Gujarat,01/07/2024,1855.35,silver
+CU0148,Anjali Pillai,anjalipillai@mail.com,not_available,Male,1985/10/25,Kochi,Tamil Nadu,08/08/2024,750.85,gold
+CU0422,Anjali Reddy,anjalireddy@mail.com,not_available,Female,10/10/1980,Hyderabad,Telangana,09/07/2021,594.64,Regular
+CU0454,Nisha Pandey,nishapandey@mail.com,9648898879,Female,1997/11/23,Chennai,Tamil Nadu,07-01-2022,1392.06,gold
+CU0815,Suresh Das,sureshdas@mail.com,not_available,Male,23-10-1987,Bengaluru,Karnataka,05/05/2024,793.51,silver
+CU0201,Manoj Verma,manojverma@mail.com,8442032976,Female,1975-05-07,Mumbai,Maharashtra,01-12-2021,1465.17,gold
+CU0805,Anjali Chatterjee,anjalichatterjee@mail.com,8904308418,Male,05/25/1996,Delhi,Delhi,2023/09/04,876.54,Basic
+CU0182,Ritu Chatterjee,rituchatterjee@mail.com,not_available,Male,19-02-1983,Bengaluru,Karnataka,28-01-2021,943.53,silver
+CU0715,Manoj Patel,manojpatel@mail.com,not_available,Male,1978-09-06,Jaipur,Rajasthan,2021/03/13,1679.3,Basic
+CU0465,Swati Menon,swatimenon@mail.com,not_available,Female,07/15/1988,Delhi,Delhi,26-12-2021,629.61,Basic
+CU0056,Suresh Menon,sureshmenon@mail.com,8764265618,Male,1985/12/16,Hyderabad,Telangana,2022-08-02,1180.36,Basic
+CU0330,Neha Pandey,nehapandey@mail.com,,Female,18-08-2002,Ahmedabad,Gujarat,2022/04/19,883.75,Regular
+CU0729,Gaurav Iyer,gauraviyer@mail.com,7565424740,Male,1988/02/02,Delhi,Delhi,21-04-2023,1343.98,Silver
+CU0818,Swati Singh,swatisingh@mail.com,8008053791,Female,1992-06-03,Kochi,Kerala,2022-09-19,1834.96,Regular
+CU0301,Priya Das,priyadas@mail.com,not_available,Female,1983-10-28,Mumbai,Maharashtra,05/27/2024,908.16,Basic
+CU0083,Priya Pandey,priyapandey@mail.com,not_available,Male,1980/11/16,Ahmedabad,Gujarat,11/19/2024,1254.43,gold
+CU0286,Priya Patel,priyapatel@mail.com,9093769694,Female,02/13/2003,Jaipur,Rajasthan,03/21/2022,1224.62,silver
+CU0804,Rohit Kulkarni,rohitkulkarni@mail.com,8041370923,Female,2000/03/21,Hyderabad,Telangana,2022-06-03,552.44,silver
+CU0058,Aarti Das,aartidas@mail.com,9095718469,Male,02/08/1994,Bengaluru,Karnataka,25-02-2024,1388.0,Gold
+CU0862,Pallavi Rao,pallavirao@mail.com,8942082903,Male,1979/12/25,Hyderabad,Telangana,2022-06-13,27.9,Basic
+CU0802,Swati Das,swatidas@mail.com,9280069602,Male,1986-03-04,Ahmedabad,Gujarat,2022/09/20,556.84,silver
+CU0068,Kavya Das,kavyadas@mail.com,7260060661,Female,1983/04/04,Mumbai,Maharashtra,01/26/2021,251.85,Regular
+CU0050,Aarti Chatterjee,aartichatterjee@mail.com,,Female,1993-01-25,Jaipur,Rajasthan,2024/05/06,983.45,Gold
+CU0027,Pooja Das,poojadas@mail.com,not_available,Female,1996-07-22,Ahmedabad,Gujarat,27-09-2024,420.37,Basic
+CU0343,Gaurav Reddy,gauravreddy@mail.com,not_available,Male,05/18/1984,Jaipur,Rajasthan,03/06/2023,1916.6,Regular
+CU0627,Amit Rao,amitrao@mail.com,not_available,Male,16-02-1988,Bengaluru,Karnataka,2024/06/21,359.61,Gold
+CU0925,Nisha Rao,nisharao@mail.com,8750964943,Male,05-08-1991,Bengaluru,Karnataka,2023/05/04,599.04,Gold
+CU0084,Sanjay Verma,sanjayverma@mail.com,8179714407,Male,09/03/1986,Jaipur,Rajasthan,06/27/2021,fifty,Regular
+CU0077,Rahul Verma,rahulverma@mail.com,not_available,Male,1977-12-17,Hyderabad,Telangana,03/12/2023,1553.67,Regular
+CU0207,Deepak Menon,deepakmenon@mail.com,9244473790,Female,2005/09/22,Ahmedabad,Gujarat,2024/05/03,1428.61,Regular
+CU0516,Pooja Rao,poojarao@mail.com,7752161682,Female,1982/03/20,Jaipur,Rajasthan,19-12-2022,1891.37,gold
+CU0397,Sneha Joshi,snehajoshi@mail.com,not_available,Male,09/08/1993,Bengaluru,Gujarat,22-11-2024,788.85,silver
+CU0933,Aarti Bhatt,aartibhatt@mail.com,8598227684,Female,05/19/2005,Kochi,Kerala,2023-10-25,44.45,silver
+CU0754,Neha Joshi,nehajoshi@mail.com,not_available,Female,2001/08/05,Jaipur,Rajasthan,11/13/2022,1321.4,Regular
+CU0065,Kavya Singh,kavyasingh@mail.com,8595467139,Male,16-04-1996,Ahmedabad,Gujarat,08-10-2023,928.54,regular
+CU0399,Sneha Reddy,snehareddy@mail.com,8785030376,Female,1984/03/26,Hyderabad,Telangana,03/07/2021,1735.05,Silver
+CU0401,Vivek Patel,vivekpatel@mail.com,9402093847,Female,26-01-1982,Pune,Maharashtra,02/21/2024,983.77,regular
+CU0794,Karan Iyer,karaniyer@mail.com,,Female,1999-10-24,Pune,Maharashtra,2023/04/03,224.82,silver
+CU0698,Ritu Joshi,ritujoshi@mail.com,not_available,Female,06/13/1984,Pune,Maharashtra,2021-12-24,556.51,Regular
+CU0527,Rohit Chawla,rohitchawla@mail.com,8613825121,Male,1995/01/08,Kochi,Kerala,26-11-2023,1955.14,regular
+CU0007,Ritu Verma,rituverma@mail.com,7656448479,Male,14-11-2000,Hyderabad,Telangana,09-09-2024,229.1,Regular
+CU0002,Shreya Reddy,shreyareddy@mail.com,8801823908,Male,09-10-1989,Pune,Maharashtra,2023-05-05,673.19,Gold
+CU0230,Sneha Malhotra,snehamalhotra@mail.com,not_available,Male,2003-05-21,Jaipur,Rajasthan,15-05-2023,349.4,Gold
+CU0490,Gaurav Menon,gauravmenon@mail.com,not_available,Female,11-08-1992,Hyderabad,Telangana,26-10-2021,451.26,regular
+CU0169,Rahul Kulkarni,rahulkulkarni@mail.com,not_available,Female,1995/07/13,Mumbai,Maharashtra,07/17/2021,1754.63,silver
+CU0707,Suresh Rao,sureshrao@mail.com,9077642039,Female,1994-07-22,Delhi,Delhi,07/02/2022,635.24,silver
+CU0869,Amit Singh,amitsingh@mail.com,7253494357,Female,21-04-1982,Kochi,Kerala,09/05/2024,969.4,Silver
+CU0884,Shreya Singh,shreyasingh@mail.com,not_available,Female,1977-12-23,Bengaluru,Karnataka,2024/01/02,931.4,gold
+CU0279,Nisha Reddy,nishareddy@mail.com,8039624809,Female,1981-04-07,Ahmedabad,Gujarat,2021/02/03,1528.49,Regular
+CU0891,Vivek Reddy,vivekreddy@mail.com,9166858599,Male,03/03/1990,Bengaluru,Karnataka,18-04-2023,382.01,Gold
+CU0939,Sneha Gupta,snehagupta@mail.com,7825699489,Male,2003/07/27,Mumbai,Maharashtra,27-10-2023,568.89,Gold
+CU0602,Vikram Verma,vikramverma@mail.com,7537443660,Male,1987-10-02,Hyderabad,Telangana,2021/12/15,1283.78,Basic
+CU0247,Vikram Iyer,vikramiyer@mail.com,not_available,Female,1975-06-15,Delhi,Delhi,10/02/2023,1145.35,Silver
+CU0153,Rahul Joshi,rahuljoshi@mail.com,8415370893,Female,1985-07-27,Chennai,Tamil Nadu,2022-08-11,1937.45,Silver
+CU0555,Swati Verma,swativerma@mail.com,9793064202,Female,1983/11/21,Kochi,Maharashtra,2021-02-16,,Silver
+CU0409,Anjali Kapoor,anjalikapoor@mail.com,7859098375,Male,01-06-1996,Pune,Maharashtra,10/12/2023,1001.27,regular
+CU0274,Ritu Bhatt,ritubhatt@mail.com,not_available,Female,1981-01-26,Ahmedabad,Gujarat,08-06-2021,173.69,Silver
+CU0197,Amit Kulkarni,amitkulkarni@mail.com,7163053047,Male,1976-04-20,Delhi,Delhi,2021-06-20,681.52,gold
+CU0258,Kavya Joshi,kavyajoshi@mail.com,8345247256,Male,2000/04/23,Chennai,Tamil Nadu,11/24/2022,925.7,Silver
+CU0124,Pallavi Patel,pallavipatel@mail.com,,Male,2004/06/10,Kolkata,West Bengal,09/15/2022,225.29,gold
+CU0345,Ritu Gupta,ritugupta@mail.com,not_available,Male,1977-07-13,Ahmedabad,Gujarat,10/12/2024,396.29,Basic
+CU0887,Nisha Das,nishadas@mail.com,9745833529,Female,1988/03/19,Kochi,Kerala,2023/05/05,815.65,silver
+CU0322,Meera Patel,meerapatel@mail.com,9735238728,Female,1979-04-04,Pune,Telangana,2022-10-08,718.52,regular
+CU0851,Anjali Reddy,anjalireddy@mail.com,7356794525,Female,1994/08/01,Pune,Maharashtra,04/17/2023,1808.56,Gold
+CU0793,Swati Nair,swatinair@mail.com,7697389798,Male,1990/04/10,Kochi,Kerala,11-10-2023,663.16,silver
+CU0150,Sneha Sharma,snehasharma@mail.com,8158638062,Male,1979/02/06,Jaipur,Rajasthan,01-02-2024,186.13,Regular
+CU0101,Pooja Bhatt,poojabhatt@mail.com,9962517290,Female,08/02/1986,Ahmedabad,Gujarat,26-11-2023,,Silver
+CU0930,Karan Malhotra,karanmalhotra@mail.com,9093868830,Female,02-09-1999,Pune,Maharashtra,2024/06/22,1270.41,gold
+CU0494,Ajay Pillai,ajaypillai@mail.com,not_available,Male,1989/07/15,Ahmedabad,Gujarat,22-11-2023,656.39,gold
+CU0735,Meera Chawla,meerachawla@mail.com,8239909831,Male,12/17/1985,Mumbai,Maharashtra,2022/05/07,1843.84,Regular
+CU0016,Sunita Malhotra,sunitamalhotra@mail.com,not_available,Male,03-03-2002,Bengaluru,Karnataka,20-10-2022,838.45,Regular
+CU0737,Priya Chawla,priyachawla@mail.com,not_available,Female,25-03-1992,Jaipur,Rajasthan,2024/10/19,947.14,gold
+CU0905,Ajay Verma,ajayverma@mail.com,,Male,1992-02-23,Delhi,Delhi,05/15/2024,1070.58,Silver
+CU0949,Sanjay Menon,sanjaymenon@mail.com,7326871532,Female,14-09-1992,Kolkata,West Bengal,22-10-2023,1160.35,Regular
+CU0417,Shreya Joshi,shreyajoshi@mail.com,7075893742,Male,1988/02/13,Kochi,Kerala,02-08-2024,1318.82,Basic
+CU0716,Divya Gupta,divyagupta@mail.com,8337688858,Female,03/02/2001,Ahmedabad,Gujarat,2021-05-23,1589.39,Regular
+CU0388,Nisha Gupta,nishagupta@mail.com,8563327376,Male,1978/07/12,Ahmedabad,Kerala,18-11-2022,1547.15,gold
+CU0803,Pooja Rao,poojarao@mail.com,9046748738,Female,03/24/1985,Delhi,Delhi,24-04-2023,,gold
+CU0392,Manoj Sharma,manojsharma@mail.com,not_available,Male,04/27/1975,Hyderabad,Telangana,2023/08/19,1134.5,Basic
+CU0853,Neha Chatterjee,nehachatterjee@mail.com,not_available,Female,1981/08/13,Delhi,Delhi,12/13/2023,1025.17,Basic
+CU0096,Rohit Patel,rohitpatel@mail.com,8033215551,Female,22-11-1980,Kolkata,West Bengal,18-09-2021,940.27,regular
+CU0273,Sunita Pandey,sunitapandey@mail.com,7952495966,Female,1977/10/02,Hyderabad,Telangana,20-12-2023,1640.46,regular
+CU0677,Kavya Reddy,kavyareddy@mail.com,not_available,Male,03-04-1982,Bengaluru,Karnataka,2021-01-28,153.22,gold
+CU0709,Isha Pandey,ishapandey@mail.com,not_available,Male,2005/12/01,Mumbai,Maharashtra,25-06-2023,1037.3,Silver
+CU0705,Vikram Pandey,vikrampandey@mail.com,9738963484,Female,1990-09-22,Chennai,Tamil Nadu,2023/11/16,784.42,Silver
+CU0291,Meera Malhotra,meeramalhotra@mail.com,8491076495,Female,26-04-1992,Jaipur,Rajasthan,05/05/2024,zero,Silver
+CU0558,Deepak Reddy,deepakreddy@mail.com,8102777869,Male,02/17/1977,Kochi,Kerala,22-07-2022,92.33,Regular
+CU0368,Isha Kapoor,ishakapoor@mail.com,7443614797,Male,02/19/1977,Jaipur,West Bengal,21-11-2022,1329.21,Silver
+CU0605,Karan Joshi,karanjoshi@mail.com,not_available,Female,06/25/1975,Hyderabad,Telangana,07/24/2023,1405.31,Gold
+CU0416,Sneha Kulkarni,snehakulkarni@mail.com,8643396139,Female,20-05-1979,Mumbai,Maharashtra,08/07/2024,980.5,Silver
+CU0776,Rohit Joshi,rohitjoshi@mail.com,not_available,Female,2000-03-28,Ahmedabad,Gujarat,2023/09/16,538.77,Silver
+CU0563,Neha Kapoor,nehakapoor@mail.com,8626213564,Male,02/06/2000,Ahmedabad,Gujarat,02/17/2024,1730.8,Regular
+CU0031,Vivek Malhotra,vivekmalhotra@mail.com,8915184358,Male,08/15/1998,Bengaluru,Karnataka,2023-09-16,154.97,Silver
+CU0350,Aarti Verma,aartiverma@mail.com,9090061251,Male,10/15/1993,Kolkata,West Bengal,2024/03/10,fifty,regular
+CU0445,Ajay Chatterjee,ajaychatterjee@mail.com,not_available,Male,22-08-1982,Kochi,Maharashtra,19-06-2024,307.55,Gold
+CU0377,Gaurav Patel,gauravpatel@mail.com,9044457991,Male,03/21/1981,Kolkata,West Bengal,20-03-2022,1434.4,Regular
+CU0580,Kavya Joshi,kavyajoshi@mail.com,not_available,Male,1996-01-22,Kochi,Kerala,12/25/2023,551.89,Regular
+CU0146,Anjali Malhotra,anjalimalhotra@mail.com,9973353078,Female,01/03/1983,Kolkata,West Bengal,03/28/2021,zero,Regular
+CU0744,Vivek Kulkarni,vivekkulkarni@mail.com,not_available,Female,13-03-1980,Jaipur,Rajasthan,24-11-2023,808.95,Basic
+CU0680,Isha Kulkarni,ishakulkarni@mail.com,not_available,Male,2004-03-27,Chennai,Tamil Nadu,2022-02-12,zero,regular
+CU0753,Anjali Menon,anjalimenon@mail.com,not_available,Female,02/20/1982,Ahmedabad,Gujarat,11/20/2024,951.21,Regular
+CU0353,Rohit Patel,rohitpatel@mail.com,not_available,Male,12/18/1975,Mumbai,Maharashtra,2021/04/14,1423.55,silver
+CU0004,Aarti Menon,aartimenon@mail.com,7999829240,Male,05/15/1987,Pune,Maharashtra,09-11-2022,342.28,regular
+CU0292,Pooja Kulkarni,poojakulkarni@mail.com,9112830350,Female,1984/01/25,Chennai,Tamil Nadu,2021-09-12,1121.11,silver
+CU0018,Neha Bhatt,nehabhatt@mail.com,7429416213,Male,04/17/1992,Pune,Maharashtra,04/12/2021,1667.49,regular
+CU0879,Sanjay Pandey,sanjaypandey@mail.com,8742428817,Male,1980/02/02,Mumbai,Maharashtra,04/25/2022,1348.41,Regular
+CU0674,Arjun Gupta,arjungupta@mail.com,not_available,Male,20-10-2000,Kochi,Kerala,24-10-2024,957.54,gold
+CU0142,Karan Malhotra,karanmalhotra@mail.com,not_available,Male,02-11-2005,Hyderabad,Telangana,2022-02-23,,Silver
+CU0733,Amit Iyer,amitiyer@mail.com,not_available,Female,05/06/1997,Pune,Maharashtra,2024-04-27,398.45,Silver
+CU0250,Rahul Singh,rahulsingh@mail.com,9219930371,Female,1991/09/15,Delhi,Delhi,17-06-2022,334.79,Basic
+CU0666,Manoj Kulkarni,manojkulkarni@mail.com,9830262384,Male,12/17/1993,Pune,Maharashtra,2023/10/20,fifty,Basic
+CU0371,Amit Patel,amitpatel@mail.com,9708479630,Female,1990/02/21,Bengaluru,Karnataka,2022-01-24,125.99,Regular
+CU0977,Swati Pillai,swatipillai@mail.com,9163376990,Male,09-10-2004,Hyderabad,Telangana,2023-08-18,fifty,regular
+CU0679,Amit Kulkarni,amitkulkarni@mail.com,7946126709,Female,05/12/1997,Bengaluru,Karnataka,23-06-2023,,regular
+CU0687,Pallavi Kulkarni,pallavikulkarni@mail.com,not_available,Male,21-10-1979,Bengaluru,Karnataka,2021/03/22,83.91,regular
+CU0334,Manoj Malhotra,manojmalhotra@mail.com,9957747588,Female,10/28/1988,Chennai,Tamil Nadu,2023/03/20,1263.72,silver
+CU0226,Rohit Reddy,rohitreddy@mail.com,7725783958,Male,21-12-1986,Hyderabad,Telangana,20-09-2023,95.92,Gold
+CU0978,Deepak Sharma,deepaksharma@mail.com,7674112995,Male,1998-01-24,Bengaluru,Karnataka,2022/03/10,,gold
+CU0922,Vivek Nair,viveknair@mail.com,9377000919,Female,1998-03-05,Bengaluru,Karnataka,03/25/2023,41.44,Regular
+CU0234,Arjun Sharma,arjunsharma@mail.com,9476688619,Male,11/28/2005,Kolkata,West Bengal,2021-07-22,1327.42,regular
+CU0576,Divya Pandey,divyapandey@mail.com,not_available,Male,25-05-1982,Chennai,Tamil Nadu,2022/11/27,1412.92,Basic
+CU0317,Vikram Gupta,vikramgupta@mail.com,7286035346,Female,05/22/1996,Mumbai,West Bengal,17-07-2022,969.32,Regular
+CU0222,Deepak Bhatt,deepakbhatt@mail.com,not_available,Male,02/16/1999,Pune,Maharashtra,01/15/2021,1547.08,Regular
+CU0179,Rohit Singh,rohitsingh@mail.com,not_available,Male,1991-04-26,Kolkata,West Bengal,2021/05/23,1692.94,Gold
+CU0453,Priya Reddy,priyareddy@mail.com,not_available,Female,2002/11/04,Kolkata,Telangana,2021/01/06,810.18,regular
+CU0947,Karan Bhatt,karanbhatt@mail.com,8246370660,Female,11-05-1976,Hyderabad,Telangana,2021/08/27,1828.21,Regular
+CU0032,Divya Singh,divyasingh@mail.com,not_available,Male,1979/03/08,Pune,Maharashtra,07/14/2021,831.55,gold
+CU0428,Karan Kulkarni,karankulkarni@mail.com,7360474643,Female,28-05-1994,Hyderabad,Telangana,2021-07-27,1141.95,Regular
+CU0469,Vivek Chawla,vivekchawla@mail.com,not_available,Female,25-01-1978,Jaipur,Rajasthan,2021-08-11,1978.0,Regular
+CU0121,Karan Patel,karanpatel@mail.com,8899990924,Female,1998-08-07,Kolkata,West Bengal,2023-03-04,1339.67,Regular
+CU0656,Pooja Patel,poojapatel@mail.com,not_available,Female,1992/03/13,Mumbai,Maharashtra,12/11/2024,855.34,silver
+CU0917,Priya Rao,priyarao@mail.com,not_available,Female,1986-07-09,Chennai,Tamil Nadu,16-10-2024,1126.62,regular
+CU0159,Kavya Kulkarni,kavyakulkarni@mail.com,not_available,Female,10-02-1985,Mumbai,Rajasthan,2021-11-26,1480.98,Regular
+CU0485,Rohit Sharma,rohitsharma@mail.com,,Male,1996/03/14,Hyderabad,Telangana,2021/09/01,705.99,Basic
+CU0572,Meera Kapoor,meerakapoor@mail.com,,Female,08/13/1982,Chennai,Tamil Nadu,09/26/2022,877.14,Basic
+CU0024,Divya Menon,divyamenon@mail.com,not_available,Male,09-06-1987,Chennai,Tamil Nadu,11/27/2024,230.68,Silver
+CU0717,Ritu Joshi,ritujoshi@mail.com,8981577771,Female,28-09-1991,Mumbai,Maharashtra,05-07-2021,1496.3,gold
+CU0638,Gaurav Chawla,gauravchawla@mail.com,7021222966,Male,04-01-1983,Chennai,Tamil Nadu,2023/12/20,340.68,gold
+CU0849,Priya Das,priyadas@mail.com,8207893467,Male,1978/11/05,Mumbai,Maharashtra,2022/07/16,1534.28,Regular
+CU0923,Gaurav Gupta,gauravgupta@mail.com,9014626962,Male,03/08/2002,Ahmedabad,Gujarat,2024-04-15,1426.86,gold
+CU0574,Aarti Reddy,aartireddy@mail.com,8141600678,Male,1988/08/18,Pune,Maharashtra,2024/09/24,1915.36,Basic
+CU0578,Rahul Pillai,rahulpillai@mail.com,7993974205,Male,16-07-1985,Kolkata,West Bengal,05/04/2021,1886.0,regular
+CU0414,Nisha Nair,nishanair@mail.com,not_available,Male,1985/04/20,Mumbai,Maharashtra,12/16/2024,1531.94,Regular
+CU0123,Arjun Patel,arjunpatel@mail.com,7384230848,Male,24-12-1992,Pune,Maharashtra,2022/01/27,372.62,regular
+CU0145,Vivek Verma,vivekverma@mail.com,7136083924,Male,1987/07/13,Delhi,Delhi,2022/02/16,662.54,Basic
+CU0772,Ritu Reddy,ritureddy@mail.com,not_available,Male,10-08-1994,Ahmedabad,Gujarat,2021-12-15,1269.87,Basic
+CU0229,Kavya Pillai,kavyapillai@mail.com,not_available,Male,1992/08/07,Kochi,Kerala,03-11-2021,1338.04,gold
+CU0190,Rahul Malhotra,rahulmalhotra@mail.com,not_available,Female,1983/03/01,Jaipur,Rajasthan,15-02-2022,279.59,Gold
+CU0111,Arjun Chawla,arjunchawla@mail.com,8591458030,Male,15-04-1985,Chennai,Tamil Nadu,02/02/2022,1728.33,silver
+CU0195,Isha Menon,ishamenon@mail.com,not_available,Female,08/17/1976,Ahmedabad,Gujarat,2022-02-08,1632.57,regular
+CU0900,Ritu Rao,riturao@mail.com,7590675140,Male,1975-03-03,Bengaluru,Karnataka,2023/09/09,zero,Regular
+CU0985,Aarti Singh,aartisingh@mail.com,7142189696,Male,25-01-1999,Delhi,Delhi,26-12-2022,380.84,Basic
+CU0634,Amit Kapoor,amitkapoor@mail.com,9883404698,Male,1993/11/14,Kochi,Kerala,2022/04/02,1980.52,silver
+CU0584,Shreya Rao,shreyarao@mail.com,7790558940,Male,07-10-1980,Kolkata,West Bengal,2023-05-28,537.03,Gold
+CU0318,Shreya Verma,shreyaverma@mail.com,not_available,Female,01-12-1992,Bengaluru,Karnataka,2023/06/16,36.74,regular
+CU0513,Sunita Rao,sunitarao@mail.com,not_available,Male,17-11-1984,Jaipur,Rajasthan,2021/03/11,1979.19,gold
+CU0948,Deepak Menon,deepakmenon@mail.com,7957346240,Female,21-05-1983,Bengaluru,Karnataka,09-07-2023,81.09,Basic
+CU0958,Karan Kapoor,karankapoor@mail.com,not_available,Female,03/23/1996,Hyderabad,Telangana,2023/06/28,1950.26,Silver
+CU0106,Shreya Chatterjee,shreyachatterjee@mail.com,9369305560,Male,02/03/1994,Hyderabad,Telangana,2024/09/14,147.5,Silver
+CU0743,Ajay Rao,ajayrao@mail.com,7593048643,Female,01/07/1981,Hyderabad,Telangana,2024/11/06,622.18,regular
+CU0339,Sneha Iyer,snehaiyer@mail.com,not_available,Male,1985-07-21,Ahmedabad,Gujarat,10/04/2022,629.0,Gold
+CU0151,Swati Joshi,swatijoshi@mail.com,,Female,1987-02-24,Ahmedabad,Gujarat,03/05/2024,986.25,Gold
+CU0255,Pallavi Chawla,pallavichawla@mail.com,,Male,1978/01/01,Kolkata,West Bengal,05/07/2021,1811.26,Basic
+CU0583,Nikhil Malhotra,nikhilmalhotra@mail.com,8177459443,Male,19-01-1984,Bengaluru,Karnataka,22-08-2024,1501.46,silver
+CU0653,Pooja Sharma,poojasharma@mail.com,9547223225,Male,10-08-1976,Hyderabad,Telangana,2021-01-09,566.53,Basic
+CU0394,Suresh Iyer,sureshiyer@mail.com,not_available,Male,1976-06-19,Jaipur,Rajasthan,18-04-2022,1956.05,gold
+CU0594,Kavya Verma,kavyaverma@mail.com,7764795277,Female,1991-06-20,Hyderabad,Telangana,10/27/2023,207.85,silver
+CU0375,Aarti Rao,aartirao@mail.com,not_available,Male,25-04-1985,Ahmedabad,Gujarat,2021-02-09,336.1,Silver
+CU0955,Nikhil Rao,nikhilrao@mail.com,not_available,Male,16-11-1994,Bengaluru,Karnataka,2024/09/25,1285.05,gold
+CU0149,Aarti Chatterjee,aartichatterjee@mail.com,9656935034,Female,23-04-2000,Mumbai,Maharashtra,2024-12-26,633.36,Gold
+CU0303,Arjun Pillai,arjunpillai@mail.com,9247129194,Male,06-03-1976,Bengaluru,Karnataka,2022/02/02,1051.64,regular
+CU0535,Aarti Iyer,aartiiyer@mail.com,not_available,Female,11/05/2005,Bengaluru,Karnataka,04-01-2022,1833.77,silver
+CU0092,Isha Iyer,ishaiyer@mail.com,9064121137,Female,23-02-1992,Chennai,Tamil Nadu,2022-05-15,183.43,gold
+CU0468,Nisha Iyer,nishaiyer@mail.com,7917982759,Male,09/10/1991,Pune,Telangana,2022/05/24,220.88,Gold
+CU0780,Rahul Gupta,rahulgupta@mail.com,not_available,Female,1983/09/12,Chennai,Tamil Nadu,12/03/2022,1464.9,Basic
+CU0695,Vivek Pillai,vivekpillai@mail.com,not_available,Male,1977/03/17,Hyderabad,Telangana,2024-12-18,238.06,Basic
+CU0693,Manoj Kulkarni,manojkulkarni@mail.com,8798948060,Male,1993-03-18,Hyderabad,Telangana,10/09/2022,235.93,silver
+CU0748,Shreya Singh,shreyasingh@mail.com,not_available,Female,01/15/1988,Chennai,Tamil Nadu,24-06-2021,792.43,gold
+CU0903,Rohit Verma,rohitverma@mail.com,7311772068,Male,1982/11/25,Kochi,Kerala,2023/07/02,na,Basic
+CU0615,Nikhil Reddy,nikhilreddy@mail.com,7230821363,Male,07/11/2003,Pune,Maharashtra,2024-08-16,873.57,regular
+CU0778,Vivek Reddy,vivekreddy@mail.com,not_available,Female,06/01/1984,Hyderabad,Telangana,2023-09-18,1235.11,silver
+CU0620,Anjali Verma,anjaliverma@mail.com,9790116381,Male,1994/07/04,Ahmedabad,Gujarat,15-11-2021,1703.41,gold
+CU0658,Gaurav Patel,gauravpatel@mail.com,not_available,Female,22-07-1979,Jaipur,Rajasthan,03-01-2024,1972.35,Gold
+CU0566,Nikhil Patel,nikhilpatel@mail.com,not_available,Female,1991-12-27,Chennai,Tamil Nadu,05/14/2021,1269.35,Gold
+CU0304,Deepak Singh,deepaksingh@mail.com,not_available,Male,03-12-1994,Bengaluru,Karnataka,26-08-2021,1486.95,silver
+CU0673,Sunita Pandey,sunitapandey@mail.com,7243302147,Male,09-08-1993,Delhi,Delhi,11-04-2023,1094.17,regular
+CU0929,Priya Sharma,priyasharma@mail.com,9412011166,Female,1976-01-17,Kolkata,West Bengal,2024/07/11,653.09,Silver
+CU0385,Nisha Malhotra,nishamalhotra@mail.com,not_available,Female,27-12-1990,Jaipur,Rajasthan,25-09-2021,813.24,gold
+CU0809,Meera Singh,meerasingh@mail.com,not_available,Female,1992/10/27,Ahmedabad,Gujarat,20-01-2024,1587.2,Gold
+CU0640,Ritu Menon,ritumenon@mail.com,not_available,Female,1997-02-12,Bengaluru,Karnataka,2021-08-02,zero,silver
+CU0786,Meera Iyer,meeraiyer@mail.com,not_available,Male,11/25/1993,Kolkata,West Bengal,2022-10-12,296.57,Silver
+CU0431,Ritu Chawla,rituchawla@mail.com,,Male,22-12-2001,Bengaluru,Karnataka,05/21/2024,1370.5,Regular
+CU0641,Vivek Rao,vivekrao@mail.com,not_available,Male,04/27/1985,Chennai,Tamil Nadu,2022-09-04,727.29,silver
+CU0639,Deepak Bhatt,deepakbhatt@mail.com,not_available,Female,2002/03/25,Jaipur,Rajasthan,2022/10/16,643.82,regular
+CU0587,Priya Singh,priyasingh@mail.com,9505087861,Male,1998/12/23,Chennai,Tamil Nadu,08/08/2022,1163.33,Basic
+CU0724,Arjun Verma,arjunverma@mail.com,9197757357,Female,11/16/1988,Chennai,Tamil Nadu,2021/04/18,771.06,silver
+CU0613,Vikram Bhatt,vikrambhatt@mail.com,not_available,Male,2005-08-05,Kochi,Kerala,01/26/2024,1957.12,gold
+CU0987,Ajay Patel,ajaypatel@mail.com,not_available,Male,1992/03/20,Chennai,Tamil Nadu,03/06/2021,1576.62,Silver
+CU0413,Meera Reddy,meerareddy@mail.com,9043016282,Female,1980/01/22,Mumbai,Maharashtra,2021/02/05,1181.11,Gold
+CU0170,Ritu Joshi,ritujoshi@mail.com,7400040376,Female,11/23/1995,Mumbai,Maharashtra,2024-04-14,645.73,Silver
+CU0597,Swati Menon,swatimenon@mail.com,9313901761,Female,1992-09-27,Hyderabad,Telangana,2024-09-19,470.39,Gold
+CU0980,Shreya Nair,shreyanair@mail.com,7466108861,Male,07-03-1999,Pune,Maharashtra,2024-04-23,1040.52,Regular
+CU0464,Ajay Sharma,ajaysharma@mail.com,not_available,Female,1985-05-17,Mumbai,Maharashtra,2024-06-21,1507.01,silver
+CU0732,Sneha Nair,snehanair@mail.com,not_available,Male,26-03-1999,Bengaluru,Karnataka,2024-02-24,1361.78,Basic
+CU0017,Deepak Malhotra,deepakmalhotra@mail.com,not_available,Female,11/23/1981,Bengaluru,Karnataka,11/21/2022,1858.04,Gold
+CU0187,Nikhil Pillai,nikhilpillai@mail.com,7364653118,Male,1991/03/21,Mumbai,Maharashtra,2021-07-22,521.98,Silver
+CU0588,Pallavi Rao,pallavirao@mail.com,not_available,Male,12/14/1998,Pune,Maharashtra,2021/08/06,1724.7,gold
+CU0293,Divya Nair,divyanair@mail.com,8625035499,Male,1983-02-14,Kolkata,West Bengal,05/21/2023,1706.96,gold
+CU0297,Sanjay Kapoor,sanjaykapoor@mail.com,9030770268,Female,1996-05-11,Delhi,Delhi,05/16/2021,1775.04,Basic
+CU0823,Rahul Chatterjee,rahulchatterjee@mail.com,8750517794,Female,08/05/1997,Pune,Maharashtra,2023/03/23,999.36,gold
+CU0067,Meera Chatterjee,meerachatterjee@mail.com,8781915481,Male,2001/08/20,Chennai,Telangana,2022-08-15,198.71,regular
+CU0725,Kavya Patel,kavyapatel@mail.com,7335864978,Male,03/21/2005,Pune,Maharashtra,08/23/2024,1115.81,silver
+CU0595,Aarti Chawla,aartichawla@mail.com,7328004474,Male,2002-03-25,Kochi,Kerala,2024/12/26,226.33,silver
+CU0579,Meera Menon,meeramenon@mail.com,not_available,Male,01-01-1980,Kochi,Kerala,20-05-2024,504.53,silver
+CU0378,Sneha Patel,snehapatel@mail.com,not_available,Male,07-04-1992,Kolkata,West Bengal,2023-09-17,1252.93,gold
+CU0520,Isha Kapoor,ishakapoor@mail.com,not_available,Male,1992-12-13,Mumbai,Maharashtra,2021-11-09,355.88,regular
+CU0049,Deepak Patel,deepakpatel@mail.com,8306061701,Female,2005/05/17,Jaipur,Rajasthan,07/24/2021,51.73,gold
+CU0621,Divya Bhatt,divyabhatt@mail.com,9016806007,Male,1986/08/14,Delhi,Delhi,09/10/2022,529.0,Basic
+CU0927,Gaurav Bhatt,gauravbhatt@mail.com,not_available,Female,12/15/1989,Bengaluru,Karnataka,2024-01-08,1845.49,Silver
+CU0935,Shreya Malhotra,shreyamalhotra@mail.com,8800843409,Female,1984-02-08,Ahmedabad,Gujarat,2021/06/02,864.34,silver
+CU0708,Swati Bhatt,swatibhatt@mail.com,7234648513,Female,12/08/1990,Delhi,Delhi,2024-04-19,1559.1,Gold
+CU0972,Sunita Das,sunitadas@mail.com,9275986143,Male,17-08-1995,Pune,Maharashtra,2023/12/25,2.92,gold
+CU0380,Isha Bhatt,ishabhatt@mail.com,not_available,Male,2004-09-06,Delhi,Delhi,2021/02/08,651.94,gold
+CU0854,Meera Pillai,meerapillai@mail.com,8487085585,Female,04/16/1992,Chennai,Tamil Nadu,11/03/2024,1791.64,Gold
+CU0105,Arjun Chawla,arjunchawla@mail.com,8247096480,Female,2002-03-23,Kochi,Kerala,2021-04-26,988.04,Silver
+CU0055,Vivek Sharma,viveksharma@mail.com,not_available,Female,2001/10/19,Pune,Maharashtra,2024/06/11,643.55,gold
+CU0128,Meera Das,meeradas@mail.com,9852263888,Male,22-04-1999,Kolkata,West Bengal,19-02-2023,zero,Regular
+CU0742,Arjun Patel,arjunpatel@mail.com,8823610635,Female,1992/02/12,Ahmedabad,Maharashtra,06/12/2022,3.18,Regular
+CU0630,Nisha Kulkarni,nishakulkarni@mail.com,7829161660,Female,04/22/1980,Hyderabad,Telangana,2023-03-26,975.66,silver
+CU0384,Vivek Bhatt,vivekbhatt@mail.com,not_available,Female,04/08/1998,Hyderabad,Telangana,2022/10/01,80.12,silver
+CU0661,Divya Reddy,divyareddy@mail.com,not_available,Male,2001/09/15,Delhi,Delhi,2023-07-16,1683.44,Regular
+CU0240,Karan Chatterjee,karanchatterjee@mail.com,not_available,Female,1989-11-19,Jaipur,Delhi,2024-10-16,347.3,Basic
+CU0902,Rohit Joshi,rohitjoshi@mail.com,7917237744,Male,1996/08/16,Bengaluru,Karnataka,21-09-2024,253.91,Regular
+CU0937,Isha Nair,ishanair@mail.com,not_available,Female,28-07-1993,Mumbai,Maharashtra,2021/03/18,184.63,Basic
+CU0954,Ajay Verma,ajayverma@mail.com,8469313429,Male,1991-12-18,Jaipur,Rajasthan,2023/01/11,864.8,Basic
+CU0140,Swati Kulkarni,swatikulkarni@mail.com,7872425923,Female,1985-07-02,Pune,West Bengal,03/07/2023,1139.58,gold
+CU0542,Vivek Iyer,vivekiyer@mail.com,not_available,Male,2002-09-09,Kochi,Kerala,2024-09-14,na,Gold
+CU0755,Sneha Kulkarni,snehakulkarni@mail.com,7891425604,Female,05/25/1984,Jaipur,Rajasthan,2021-03-20,1129.78,silver
+CU0890,Arjun Kulkarni,arjunkulkarni@mail.com,not_available,Female,1992/07/17,Bengaluru,Karnataka,25-12-2024,1287.8,gold
+CU0684,Pallavi Das,pallavidas@mail.com,9440843025,Female,1980-07-15,Pune,Maharashtra,09-11-2023,1542.68,Silver
+CU0993,Aarti Patel,aartipatel@mail.com,8042458230,Female,12/05/1999,Kolkata,West Bengal,05/25/2021,1746.89,Basic
+CU0944,Priya Kulkarni,priyakulkarni@mail.com,8389763738,Female,1979/06/24,Kochi,Kerala,2022-01-28,831.6,silver
+CU0306,Amit Malhotra,amitmalhotra@mail.com,7768360597,Female,02/25/1998,Jaipur,Rajasthan,2024-02-06,1009.39,regular
+CU0351,Vivek Pandey,vivekpandey@mail.com,9122981496,Male,1977-04-27,Ahmedabad,Gujarat,2021-03-22,583.01,Regular
+CU0199,Rohit Nair,rohitnair@mail.com,9745626499,Female,06/06/1995,Bengaluru,Karnataka,07/10/2022,1457.66,regular
+CU0799,Vikram Das,vikramdas@mail.com,9815181428,Female,03/09/1985,Jaipur,Rajasthan,11/04/2024,525.73,Basic
+CU0459,Arjun Pandey,arjunpandey@mail.com,9012051673,Male,2003/05/24,Hyderabad,Telangana,2023-08-26,564.91,regular
+CU0541,Isha Pillai,ishapillai@mail.com,not_available,Female,1985/04/12,Hyderabad,Telangana,26-06-2023,,regular
+CU0813,Vivek Nair,viveknair@mail.com,8433502310,Female,1994-09-24,Kochi,Kerala,2021/12/03,994.39,gold
+CU0006,Arjun Reddy,arjunreddy@mail.com,9761027762,Female,1979-05-05,Kolkata,West Bengal,10/13/2024,1995.08,Regular
+CU0568,Gaurav Das,gauravdas@mail.com,9646930819,Male,2004/12/01,Kolkata,West Bengal,22-12-2022,1929.29,regular
+CU0312,Karan Rao,karanrao@mail.com,9470700778,Male,1982/07/10,Pune,Maharashtra,19-08-2021,525.12,silver
+CU0248,Sneha Joshi,snehajoshi@mail.com,9235986982,Male,2000/09/06,Kolkata,West Bengal,2021-06-08,662.13,Silver
+CU0119,Arjun Kulkarni,arjunkulkarni@mail.com,7743812855,Female,09/11/2004,Chennai,Tamil Nadu,04/09/2022,1945.82,Silver
+CU0042,Sanjay Sharma,sanjaysharma@mail.com,not_available,Male,12/08/1987,Ahmedabad,Gujarat,07/24/2023,907.49,Silver
+CU0768,Pallavi Malhotra,pallavimalhotra@mail.com,8631539419,Male,1996-02-11,Chennai,Tamil Nadu,20-05-2022,713.0,silver
+CU0298,Aarti Reddy,aartireddy@mail.com,8864710094,Female,03/26/1975,Ahmedabad,Gujarat,2022/01/02,309.98,Basic
+CU0271,Kavya Pandey,kavyapandey@mail.com,not_available,Female,1999/04/14,Pune,Maharashtra,05/10/2024,796.26,gold
+CU0852,Ritu Joshi,ritujoshi@mail.com,8025655056,Female,08/14/1983,Delhi,Delhi,11/03/2024,261.3,Regular
+CU0538,Manoj Patel,manojpatel@mail.com,8609115472,Male,1997/03/07,Pune,Maharashtra,2021-08-19,117.96,gold
+CU0216,Aarti Sharma,aartisharma@mail.com,7743891149,Male,05/20/1982,Chennai,Tamil Nadu,06/15/2024,604.29,Regular
+CU0637,Suresh Bhatt,sureshbhatt@mail.com,7521464628,Female,04-10-2005,Bengaluru,Delhi,2022/02/11,176.03,regular
+CU0147,Rohit Rao,rohitrao@mail.com,9422182038,Male,07/22/1993,Hyderabad,Telangana,24-12-2022,1948.65,Gold
+CU0660,Divya Iyer,divyaiyer@mail.com,not_available,Female,1998/01/26,Ahmedabad,Gujarat,2021-02-01,242.07,Gold
+CU0575,Neha Iyer,nehaiyer@mail.com,not_available,Male,08-11-1999,Kochi,Kerala,07/16/2021,165.23,silver
+CU0911,Manoj Kulkarni,manojkulkarni@mail.com,8661657110,Female,06-03-1978,Kochi,Kerala,28-01-2021,1096.98,Silver
+CU0435,Ajay Iyer,ajayiyer@mail.com,8371808827,Female,12/05/1990,Pune,Maharashtra,07-05-2023,363.78,silver
+CU0497,Nikhil Chatterjee,nikhilchatterjee@mail.com,8019570931,Male,1988-06-07,Bengaluru,Karnataka,2023/04/22,1963.85,Regular
+CU0868,Ritu Sharma,ritusharma@mail.com,not_available,Male,03/20/1987,Mumbai,Maharashtra,10/24/2024,,Basic
+CU0642,Pallavi Pandey,pallavipandey@mail.com,7807254039,Male,07/06/1983,Ahmedabad,Gujarat,04-08-2022,1788.2,gold
+CU0498,Suresh Joshi,sureshjoshi@mail.com,8441650788,Female,06-06-1988,Jaipur,Rajasthan,08-08-2021,1386.44,silver
+CU1000,Vivek Sharma,viveksharma@mail.com,,Male,1985-07-04,Ahmedabad,Gujarat,2021/04/23,1273.67,silver
+CU0586,Neha Chawla,nehachawla@mail.com,8393982645,Male,12/18/2005,Pune,Maharashtra,02-06-2023,438.56,Silver
+CU0447,Karan Verma,karanverma@mail.com,7397503555,Female,1983/03/08,Mumbai,Kerala,2022/07/25,1505.12,regular
+CU0188,Sunita Rao,sunitarao@mail.com,8366047498,Female,1983-04-03,Pune,Maharashtra,2021-03-04,628.07,Gold
+CU0564,Vikram Pandey,vikrampandey@mail.com,not_available,Male,1980/06/25,Pune,Maharashtra,2024-08-19,1373.32,regular
+CU0522,Amit Menon,amitmenon@mail.com,7392501735,Male,01/01/1988,Bengaluru,Karnataka,2021-04-04,88.03,Regular
+CU0441,Rohit Das,rohitdas@mail.com,not_available,Male,1983/03/17,Kochi,Kerala,2022/02/11,233.68,Gold
+CU0913,Ajay Singh,ajaysingh@mail.com,8015168489,Male,09/19/1975,Bengaluru,Karnataka,18-04-2024,182.36,regular
+CU0054,Pooja Malhotra,poojamalhotra@mail.com,9072319898,Female,1982-08-18,Hyderabad,Telangana,2022/02/09,1575.43,Silver
+CU0365,Kavya Menon,kavyamenon@mail.com,7146208285,Male,1994-02-02,Ahmedabad,Gujarat,2021-02-28,1527.72,regular
+CU0349,Divya Das,divyadas@mail.com,not_available,Female,1987-02-11,Ahmedabad,Gujarat,10/26/2024,472.31,regular
+CU0261,Divya Pandey,divyapandey@mail.com,7602887521,Female,1980-03-19,Jaipur,Rajasthan,2021/04/25,528.71,gold
+CU0224,Gaurav Joshi,gauravjoshi@mail.com,7076949178,Male,1995-12-08,Kochi,Kerala,07/17/2021,1647.69,Silver
+CU0787,Priya Kapoor,priyakapoor@mail.com,not_available,Male,03/18/1999,Mumbai,Maharashtra,2023-04-22,326.58,Silver
+CU0180,Divya Verma,divyaverma@mail.com,9629794700,Male,1984-11-24,Mumbai,Tamil Nadu,03/16/2021,1565.97,regular
+CU0103,Sneha Chatterjee,snehachatterjee@mail.com,not_available,Female,06/21/1987,Bengaluru,Karnataka,2021/12/06,1827.09,Gold
+CU0218,Manoj Patel,manojpatel@mail.com,not_available,Male,2003/01/26,Kochi,Kerala,11/16/2021,837.13,silver
+CU0961,Gaurav Rao,gauravrao@mail.com,,Female,11/11/1977,Delhi,Delhi,01-10-2021,85.05,Basic
+CU0329,Deepak Iyer,deepakiyer@mail.com,not_available,Male,1980/12/02,Chennai,Tamil Nadu,2024-05-21,263.14,gold
+CU0075,Meera Gupta,meeragupta@mail.com,8510308881,Male,1993-09-07,Jaipur,Rajasthan,06/28/2021,557.14,gold
+CU0467,Neha Singh,nehasingh@mail.com,7630766676,Female,1989/11/07,Kochi,Kerala,10-04-2024,na,silver
+CU0702,Kavya Verma,kavyaverma@mail.com,7319332235,Female,09/11/1980,Jaipur,Rajasthan,12/23/2021,76.71,Gold
+CU0158,Aarti Chatterjee,aartichatterjee@mail.com,7105495798,Female,14-05-1978,Mumbai,Maharashtra,06/10/2022,413.73,silver
+CU0396,Ajay Chatterjee,ajaychatterjee@mail.com,8898828806,Female,1997/02/24,Delhi,Delhi,2021/05/01,440.73,Silver
+CU0990,Shreya Gupta,shreyagupta@mail.com,7892994637,Male,1988/10/28,Ahmedabad,Gujarat,2021-10-25,121.42,Basic
+CU0782,Suresh Joshi,sureshjoshi@mail.com,8914869816,Male,1980-06-15,Jaipur,Rajasthan,11/23/2022,1495.3,Gold
+CU0893,Rahul Chawla,rahulchawla@mail.com,not_available,Female,16-10-1994,Jaipur,Rajasthan,12-06-2024,947.19,Basic
+CU0838,Ajay Gupta,ajaygupta@mail.com,7811617487,Male,02-06-1998,Pune,Maharashtra,2023/03/12,1288.27,silver
+CU0091,Shreya Menon,shreyamenon@mail.com,not_available,Female,2003/04/12,Jaipur,Rajasthan,2024/09/17,1633.78,Basic
+CU0623,Isha Rao,isharao@mail.com,9481862382,Female,1979-11-13,Hyderabad,Telangana,08-07-2022,252.66,Gold
+CU0906,Sunita Patel,sunitapatel@mail.com,9095031401,Female,1999-12-19,Jaipur,Rajasthan,18-06-2024,536.42,Silver
+CU0408,Meera Kapoor,meerakapoor@mail.com,not_available,Female,1999-07-02,Mumbai,Delhi,09-02-2024,fifty,Basic
+CU0400,Sneha Chatterjee,snehachatterjee@mail.com,8758620050,Female,1988/03/18,Ahmedabad,Gujarat,2022/04/06,981.17,Basic
+CU0370,Arjun Patel,arjunpatel@mail.com,9779163450,Male,09/28/1986,Mumbai,Maharashtra,2023-11-07,1935.03,regular
+CU0209,Manoj Iyer,manojiyer@mail.com,7287814151,Male,09/13/1987,Chennai,Tamil Nadu,2021/12/20,299.28,Regular
+CU0907,Pallavi Patel,pallavipatel@mail.com,8392275272,Male,04/12/1993,Bengaluru,Karnataka,2024/05/09,376.71,Regular
+CU0956,Gaurav Gupta,gauravgupta@mail.com,not_available,Male,12-10-1975,Kochi,Kerala,27-12-2024,1724.01,Gold
+CU0057,Anjali Bhatt,anjalibhatt@mail.com,not_available,Female,1975/12/05,Pune,Maharashtra,2023/06/20,1703.53,Basic
+CU0896,Sunita Malhotra,sunitamalhotra@mail.com,8989342849,Female,13-10-1997,Chennai,Tamil Nadu,03/15/2024,79.63,Regular
+CU0198,Sunita Joshi,sunitajoshi@mail.com,not_available,Male,05-12-1993,Kolkata,West Bengal,2021/06/23,673.12,Silver
+CU0952,Pooja Das,poojadas@mail.com,7327387195,Male,28-02-2002,Bengaluru,Karnataka,2023/03/04,1000.93,Basic
+CU0019,Pooja Pandey,poojapandey@mail.com,9271782991,Male,10-09-1996,Pune,Maharashtra,2021-12-18,1209.66,regular
+CU0867,Manoj Kulkarni,manojkulkarni@mail.com,9479140146,Female,04/05/1997,Ahmedabad,Gujarat,2022-12-19,498.2,Regular
+CU0800,Kavya Pillai,kavyapillai@mail.com,7542145861,Male,27-08-1982,Mumbai,Maharashtra,03/28/2023,872.33,Gold
+CU0437,Vikram Iyer,vikramiyer@mail.com,not_available,Female,04-10-1980,Kolkata,West Bengal,16-11-2024,406.29,Basic
+CU0132,Pallavi Das,pallavidas@mail.com,not_available,Female,1978/03/18,Kolkata,West Bengal,25-01-2022,926.01,regular
+CU0765,Swati Bhatt,swatibhatt@mail.com,9553049385,Male,03/05/1999,Delhi,Delhi,10/12/2023,1431.67,Regular
+CU0120,Ajay Patel,ajaypatel@mail.com,9100252248,Female,06/18/1990,Chennai,Tamil Nadu,07/27/2024,1609.23,Silver
+CU0099,Shreya Kulkarni,shreyakulkarni@mail.com,not_available,Male,28-06-1984,Kochi,Kerala,2023/07/13,773.29,gold
+CU0711,Rahul Kulkarni,rahulkulkarni@mail.com,not_available,Female,1984-01-08,Delhi,Delhi,2021/07/21,1481.05,Silver
+CU0532,Priya Singh,priyasingh@mail.com,8216445336,Female,16-10-1992,Kochi,Kerala,2024-04-05,na,silver
+CU0048,Sanjay Verma,sanjayverma@mail.com,9684603688,Male,1988-02-18,Pune,Maharashtra,2022-02-02,1190.09,Basic
+CU0762,Aarti Pillai,aartipillai@mail.com,8654917886,Male,09-07-2000,Ahmedabad,Gujarat,16-08-2021,796.79,Basic
+CU0810,Deepak Kapoor,deepakkapoor@mail.com,not_available,Male,1986/10/22,Hyderabad,Telangana,2021/06/21,1146.69,Regular
+CU0446,Sanjay Kulkarni,sanjaykulkarni@mail.com,9552087856,Male,1985/01/21,Kochi,Kerala,28-04-2022,565.91,Basic
+CU0439,Neha Patel,nehapatel@mail.com,8936930132,Male,1986/10/22,Mumbai,Tamil Nadu,2023-12-13,1416.91,regular
+CU0405,Vikram Chawla,vikramchawla@mail.com,not_available,Female,2001-03-01,Kolkata,West Bengal,2024-07-11,309.11,gold
+CU0505,Deepak Gupta,deepakgupta@mail.com,not_available,Male,1989-04-13,Chennai,Tamil Nadu,10/06/2024,169.52,Basic
+CU0244,Vikram Nair,vikramnair@mail.com,7628905148,Male,07-05-1997,Kochi,Kerala,2021-10-28,1122.54,gold
+CU0969,Rohit Patel,rohitpatel@mail.com,not_available,Female,16-01-1999,Ahmedabad,Gujarat,2023/11/08,1727.7,Basic
+CU0402,Manoj Menon,manojmenon@mail.com,not_available,Female,02/20/1990,Ahmedabad,Gujarat,2024/05/21,1636.56,Silver
+CU0797,Pooja Joshi,poojajoshi@mail.com,9537400779,Female,1999/03/11,Kochi,Kerala,2021/12/26,1588.39,gold
+CU0022,Karan Chawla,karanchawla@mail.com,not_available,Male,1996/02/12,Ahmedabad,Gujarat,2022-03-26,49.57,regular
+CU0646,Vivek Singh,viveksingh@mail.com,7874350029,Female,05/23/1995,Delhi,Delhi,2024-12-10,1362.88,gold
+CU0376,Shreya Nair,shreyanair@mail.com,7174800445,Male,1978/11/20,Pune,Gujarat,2021-01-01,1413.48,Regular
+CU0850,Suresh Chawla,sureshchawla@mail.com,7780969663,Female,01/16/2003,Kochi,Kerala,2023-02-06,1354.75,gold
+CU0044,Divya Chawla,divyachawla@mail.com,not_available,Male,09/05/1997,Delhi,Delhi,2023/12/05,24.53,Silver
+CU0766,Manoj Patel,manojpatel@mail.com,8266498312,Male,1998-12-05,Ahmedabad,Gujarat,2024-05-21,zero,Regular
+CU0986,Anjali Bhatt,anjalibhatt@mail.com,8595749987,Male,24-11-2000,Pune,Maharashtra,22-07-2023,1008.04,Silver
+CU0549,Sanjay Joshi,sanjayjoshi@mail.com,not_available,Female,2001/04/16,Pune,Maharashtra,22-12-2022,617.78,regular
+CU0533,Rahul Pillai,rahulpillai@mail.com,8602645134,Female,21-05-1990,Hyderabad,Telangana,2021-07-19,872.6,Silver
+CU0134,Aarti Gupta,aartigupta@mail.com,not_available,Male,1987-08-08,Delhi,Delhi,04/27/2023,1545.08,Basic
+CU0302,Manoj Malhotra,manojmalhotra@mail.com,7080401162,Female,10/08/1999,Mumbai,Maharashtra,2024/04/17,308.26,Silver
+CU0749,Sneha Das,snehadas@mail.com,not_available,Male,08/14/1995,Kochi,Kerala,2022/12/27,na,Silver
+CU0878,Isha Patel,ishapatel@mail.com,not_available,Female,1991-07-06,Ahmedabad,Gujarat,2022/06/09,570.76,Gold
+CU0764,Swati Kulkarni,swatikulkarni@mail.com,not_available,Male,23-11-1985,Jaipur,Rajasthan,04/25/2024,1378.39,Silver
+CU0713,Neha Patel,nehapatel@mail.com,not_available,Male,1978/05/21,Hyderabad,Telangana,04/14/2021,1815.33,Regular
+CU0038,Rahul Reddy,rahulreddy@mail.com,not_available,Male,12/25/1978,Ahmedabad,Gujarat,2021/06/18,137.91,regular
+CU0957,Rohit Kapoor,rohitkapoor@mail.com,7500337444,Male,08/18/1990,Mumbai,Maharashtra,2021-11-11,1644.33,Silver
+CU0262,Karan Reddy,karanreddy@mail.com,8666847218,Female,02-08-2004,Kochi,Kerala,2023-12-09,757.04,Regular
+CU0095,Isha Malhotra,ishamalhotra@mail.com,8020657023,Female,1978/01/08,Ahmedabad,Gujarat,20-08-2021,1150.09,regular
+CU0004,Aarti Menon,aartimenon@mail.com,7999829240,Male,05/15/1987,Pune,Maharashtra,09-11-2022,342.28,regular
+CU0429,Sunita Kapoor,sunitakapoor@mail.com,9255975123,Female,08-02-1990,Kochi,Kerala,2024-12-24,436.02,Gold
+CU0346,Aarti Das,aartidas@mail.com,not_available,Female,1993/03/03,Mumbai,Maharashtra,2024-08-08,1791.4,Silver
+CU0344,Nikhil Kapoor,nikhilkapoor@mail.com,not_available,Female,1992-06-09,Chennai,Tamil Nadu,02/10/2022,101.45,Gold
+CU0282,Shreya Singh,shreyasingh@mail.com,not_available,Female,10/11/2005,Pune,Maharashtra,07/23/2022,801.19,silver
+CU0463,Sunita Chawla,sunitachawla@mail.com,not_available,Female,1997/08/25,Mumbai,Maharashtra,2023-06-27,403.78,silver
+CU0246,Suresh Chawla,sureshchawla@mail.com,9591527330,Male,12/07/1999,Jaipur,Rajasthan,06-03-2021,857.02,Regular
+CU0076,Swati Pillai,swatipillai@mail.com,9670283403,Male,11/27/1994,Delhi,Delhi,12-06-2023,286.5,regular
+CU0152,Priya Pillai,priyapillai@mail.com,not_available,Female,02/12/1990,Bengaluru,Karnataka,2024-10-20,270.98,Gold
+CU0518,Sanjay Nair,sanjaynair@mail.com,not_available,Male,1989/01/03,Hyderabad,Telangana,13-04-2024,fifty,regular
+CU0617,Anjali Pillai,anjalipillai@mail.com,not_available,Male,1989/03/21,Ahmedabad,Gujarat,2022/12/07,1548.77,Regular
+CU0622,Gaurav Pillai,gauravpillai@mail.com,,Female,1976-01-01,Kochi,Kerala,2023/06/06,1946.98,gold
+CU0221,Pallavi Kapoor,pallavikapoor@mail.com,9506433915,Male,17-04-1990,Hyderabad,Telangana,2024-01-28,400.59,silver
+CU0965,Ritu Sharma,ritusharma@mail.com,7821047147,Female,1997-03-19,Ahmedabad,Gujarat,23-03-2022,499.99,Gold
+CU0162,Rahul Pandey,rahulpandey@mail.com,8511763726,Female,03/27/1994,Ahmedabad,Gujarat,2022-06-04,366.09,regular
+CU0741,Anjali Kulkarni,anjalikulkarni@mail.com,7912645659,Female,1996/07/27,Bengaluru,Karnataka,07/05/2021,267.05,Basic
+CU0835,Ritu Singh,ritusingh@mail.com,8698524183,Male,1997-08-05,Mumbai,Maharashtra,2021/03/26,na,gold
+CU0175,Manoj Nair,manojnair@mail.com,9697583218,Male,2004/07/20,Bengaluru,Karnataka,25-03-2021,768.06,silver
+CU0200,Deepak Rao,deepakrao@mail.com,9437319900,Male,1980-10-11,Ahmedabad,Gujarat,11-03-2024,1964.76,gold
+CU0418,Pooja Nair,poojanair@mail.com,8671087985,Female,1999/02/19,Kolkata,West Bengal,2024-08-18,782.77,silver
+CU0775,Manoj Das,manojdas@mail.com,7466913211,Male,05/17/1981,Kochi,Kerala,02/22/2024,420.58,regular
+CU0143,Karan Pandey,karanpandey@mail.com,9075346043,Female,1975/01/18,Delhi,Kerala,2023/01/17,1819.55,Gold
+CU0601,Karan Pandey,karanpandey@mail.com,7046675894,Female,2001/07/22,Kolkata,West Bengal,10/17/2023,847.34,gold
+CU0028,Deepak Pandey,deepakpandey@mail.com,8899061865,Male,1991-08-26,Mumbai,Maharashtra,2023-02-27,449.28,gold
+CU0859,Meera Malhotra,meeramalhotra@mail.com,8077821154,Female,17-04-1998,Chennai,Tamil Nadu,02-02-2022,1805.39,Gold
+CU0352,Deepak Bhatt,deepakbhatt@mail.com,not_available,Female,10/26/1984,Hyderabad,Telangana,19-02-2023,1020.85,Basic
+CU0489,Aarti Das,aartidas@mail.com,8949597857,Male,21-07-2005,Kochi,Kerala,2024/05/04,1034.51,Gold
+CU0543,Manoj Chawla,manojchawla@mail.com,8398120064,Female,1982/10/16,Ahmedabad,Gujarat,16-07-2023,587.73,gold
+CU0407,Nikhil Joshi,nikhiljoshi@mail.com,not_available,Female,27-12-1975,Bengaluru,Karnataka,12/08/2022,260.44,Gold
+CU0237,Meera Gupta,meeragupta@mail.com,,Male,10/20/2000,Kolkata,West Bengal,12-06-2024,1688.63,Silver
+CU0232,Rahul Rao,rahulrao@mail.com,8656635401,Female,2000-07-21,Mumbai,Maharashtra,2021/03/04,965.35,Regular
+CU0300,Swati Chawla,swatichawla@mail.com,7828779668,Male,1997-07-12,Chennai,Tamil Nadu,12/15/2024,980.18,Regular
+CU0553,Amit Reddy,amitreddy@mail.com,9797045905,Male,28-12-1986,Pune,Maharashtra,2024-11-27,192.1,silver
+CU0112,Divya Nair,divyanair@mail.com,8343100352,Male,1999/03/16,Jaipur,Rajasthan,2024/01/03,1933.37,gold
+CU0294,Rohit Patel,rohitpatel@mail.com,not_available,Female,1994/08/09,Bengaluru,Karnataka,18-01-2022,204.55,Silver
+CU0589,Deepak Kulkarni,deepakkulkarni@mail.com,8211370833,Male,1984/03/06,Ahmedabad,Gujarat,2022-02-14,1290.24,silver
+CU0791,Manoj Rao,manojrao@mail.com,,Female,11-11-1998,Pune,Maharashtra,2022-10-01,280.44,silver
+CU0655,Aarti Rao,aartirao@mail.com,7421502469,Female,05/20/2004,Pune,Maharashtra,2023-10-05,832.62,gold
+CU0539,Swati Reddy,swatireddy@mail.com,not_available,Female,20-11-1989,Pune,Maharashtra,07/04/2021,fifty,Regular
+CU0892,Neha Patel,nehapatel@mail.com,not_available,Male,03-11-2001,Chennai,Tamil Nadu,2021/07/12,na,Silver
+CU0127,Karan Kapoor,karankapoor@mail.com,9946663769,Female,02/21/1997,Kochi,Kerala,2022-03-16,1977.68,Silver
+CU0828,Swati Bhatt,swatibhatt@mail.com,7281163962,Female,1982-06-05,Jaipur,Rajasthan,12-01-2024,1842.25,Basic
+CU0073,Manoj Das,manojdas@mail.com,8939413575,Male,1988/06/27,Hyderabad,Telangana,06/14/2021,748.6,gold
+CU0619,Shreya Pillai,shreyapillai@mail.com,7486963383,Male,1989-07-12,Kolkata,West Bengal,2024/07/10,1404.19,Basic
+CU0319,Kavya Chawla,kavyachawla@mail.com,9152858629,Female,01/21/2000,Hyderabad,Telangana,2021-09-09,1794.35,regular
+CU0079,Anjali Patel,anjalipatel@mail.com,9263164755,Female,13-04-1976,Delhi,Delhi,03/25/2022,239.97,silver
+CU0060,Divya Kulkarni,divyakulkarni@mail.com,8980623803,Female,22-05-1989,Jaipur,Rajasthan,02/15/2022,598.31,silver
+CU0908,Gaurav Iyer,gauraviyer@mail.com,7815897981,Female,09/18/1997,Bengaluru,Karnataka,02/24/2022,411.47,Basic
+CU0138,Isha Pandey,ishapandey@mail.com,not_available,Male,1981-10-24,Jaipur,Rajasthan,2023-05-01,1924.16,Gold
+CU0355,Aarti Pillai,aartipillai@mail.com,7589356566,Female,2002/08/26,Ahmedabad,Gujarat,2024/09/27,451.48,silver
+CU0812,Aarti Chawla,aartichawla@mail.com,8188127446,Female,2000/01/11,Chennai,Tamil Nadu,04/18/2022,1506.64,Basic
+CU0625,Rahul Sharma,rahulsharma@mail.com,8948653543,Female,1980-04-21,Chennai,Tamil Nadu,2022/12/25,1318.52,Silver
