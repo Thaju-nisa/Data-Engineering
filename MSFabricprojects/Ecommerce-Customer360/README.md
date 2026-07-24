@@ -422,4 +422,3 @@ Data Engineering Enthusiast | Business Analyst | Microsoft Fabric | PySpark | SQ
 
 ---
 
-# ⭐ If you found this project useful, consider giving it a star!
