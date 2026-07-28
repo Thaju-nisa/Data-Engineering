@@ -219,9 +219,7 @@ Through this project, I gained hands-on experience in:
 - Incremental Data Loading
 - Slowly Changing Dimensions (SCD Type 2)
 - CI/CD using Azure DevOps
-- Data Quality Validation
 - Pipeline Monitoring & Alerts
-- Real-Time Data Streaming with Azure Event Hubs
 
 ---
 
