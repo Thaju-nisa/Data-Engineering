@@ -190,6 +190,9 @@ Retail-Sales-Analytics-Azure-Data-Engineering
 <img width="1313" height="738" alt="image" src="https://github.com/user-attachments/assets/b01cf1e2-950f-4de0-881f-e3802d92c643" />
 
 
+<img width="1305" height="736" alt="image" src="https://github.com/user-attachments/assets/86fff0ac-0567-4f2b-83f3-dee10f836e4d" />
+
+
 
 ```markdown
 ![Retail Sales Dashboard](Images/Dashboard.png)
