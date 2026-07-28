@@ -187,7 +187,7 @@ Retail-Sales-Analytics-Azure-Data-Engineering
 > **Retail Sales Analytics Dashboard**
 
 
-<img width="1309" height="739" alt="image" src="https://github.com/user-attachments/assets/5047b13d-ecd0-4dcc-a722-eb738ea7411b" />
+<img width="1313" height="738" alt="image" src="https://github.com/user-attachments/assets/b01cf1e2-950f-4de0-881f-e3802d92c643" />
 
 
 
